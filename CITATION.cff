@@ -5,6 +5,10 @@ authors:
     given-names: "Lorna"
     orcid: "https://orcid.org/0000-0002-3900-5058"
     affiliation: "Royal Library, Denmark"
+- family-names: "Derksen"
+    given-names: "Benjamin"
+    orcid: "https://orcid.org/0000-0001-9144-7518"
+    affiliation: "Royal Library, Denmark"
 title: "Open Licenses for Data, Software and Code"
 abstract: "Training description"
 version: 1.0.0
