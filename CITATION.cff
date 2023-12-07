@@ -29,11 +29,19 @@ authors:
     given-names: "Mathilde"
     orcid: "https://orcid.org/0009-0000-5770-3047"
     affiliation: "CNRS Délégation Paris"
+  - family-names: "Sharma"
+    given-names: "Saba"
+    orcid: "https://orcid.org/0000-0002-8695-5902"
+    affiliation: "write here"
+  - family-names: "Vanleersum"
+    given-names: "Nida_K"
+    orcid: "https://orcid.org/0000-xxx"
+    affiliation: "write here"
 title: "Open Licenses for Data, Software and Code"
-abstract: "Training description"
+abstract: "This 2-hour long unit provides trainers with the core skills and knowledge to teach the nuances of licensing research outputs. After completing the unit, the trainer will be able to reflect on how to tailor the content to their local environment, and have more knowledge about when to apply licenses throughout a project, while complying with funders, institutional requirements and the research discipline/aims of the project."
 version: 1.0.0
 doi: 10.5070/zenodo.123
-date-released: "1970-01-01"
+date-released: "2023-01-18"
 license: CC-BY-4.0
 license-url: "https://creativecommons.org/licenses/by/4.0/legalcode.txt"
 keywords:
