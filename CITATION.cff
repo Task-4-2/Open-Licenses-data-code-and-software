@@ -1,19 +1,55 @@
 cff-version: 1.2.0
 message: "If you use these learning materials, please cite it as below."
 authors:
-  - family-names: Surname
-    given-names: First_Name
-    orcid: https://orcid.org/1234-5678-9101-1121
-    affiliation: Organization
-title: "Training Name"
-abstract: "Training description"
+  - family-names: Peters
+    given-names: Ekaterina
+    orcid: xxx
+    affiliation: kit
+family-names: Derksen
+    given-names: Benjamin
+    orcid: xxx
+    affiliation: The Royal Library, Copenhagen University Library
+family-names: Hansen
+    given-names: Karsten Kryger
+    orcid: xxx
+    affiliation: xxx
+family-names: Hadrossek
+    given-names: Christine
+    orcid: xxx
+    affiliation: 
+family-names: Janik
+    given-names: Joanna
+    orcid: xxx
+    affiliation: 
+family-names: Antoine
+    given-names: Diane
+    orcid: 
+    affiliation: 
+family-names: Bernier
+    given-names: Mathilde
+    orcid: 
+    affiliation: 
+family-names: Sharma
+    given-names: Saba
+    orcid: 
+    affiliation: 
+family-names: Wildgaard
+    given-names: Lorna
+    orcid: https://orcid.org/0000-0002-3900-5058
+    affiliation: The Royal Library, Copenhagen University Library
+family-names: Vanleersum
+    given-names: Nida K.
+    orcid: 
+    affiliation: 
+title: "Open Licences (Data, Code, Software)"
+abstract: "This 2-hour long unit provides trainers with the core skills and knowledge to teach the nuances of licensing research outputs. After completing the unit, the trainer will be able to reflect on how to tailor the content to their local environment, and have more knowledge about when to apply licenses throughout a project, while complying with funders, institutional requirements and the research discipline/aims of the project."
 version: 1.0.0
 doi: 10.5070/zenodo.123
-date-released: "1970-01-01"
+date-released: "2024-02-18"
 license: CC-BY-4.0
 license-url: "https://creativecommons.org/licenses/by/4.0/legalcode.txt"
 keywords:
- - "thefirstkeyword"
+ - "Licences"
  - "thesecondkeyword"
  - "a third keyword"
 repository: "https://github.com/citation-file-format/my-research-software"
