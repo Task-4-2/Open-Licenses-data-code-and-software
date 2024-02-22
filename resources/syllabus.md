@@ -1,30 +1,34 @@
 ---
 # RDA learning materials metadata minimal set
-title: "Open Licenses - data, code and software."
+title: "Open Licenses for data, code and software."
 author: 
     - Diane Antoine 
-    - Mathilde Bernier  Mareike Buus, Benjamin Derksen, Christine Hadrossek, Karsten Kryger Hansen, Joanna Janik, Nida van Leersum, Carolin Leister, Fabian Schuboe, Saba Sharma,Lorna Wildgaard
-    - authoring the resource
+    - Mathilde Bernier  
+    - Mareike Buus
+    - Benjamin Derksen
+    - Christine Hadrossek
+    - Karsten Kryger Hansen
+    - Joanna Janik
+    - Nida van Leersum
+    - Carolin Leister
+    - Fabian Schuboe
+    - Saba Sharma
+    - Lorna Wildgaard
 tags: 
-    - Keywords
-    - Tags 
-    - Resource Description
+    - Learning materials, training, data stewardship, licensing research output, FAIRdata, requirements
+    - Facilitated workshop or webinar
 
-abstract: "A brief synopsis about or description of the learning resource."
-primaryLanguage: "two letter code, Language in which the resource was originally published or made available."
-license: "A license document that applies to this content, typically indicated by URL"
-versionDate: "YYYY-MM-DD Version date for the most recently published or broadcast resource."
-urlToResource: "https://doi.org/10.5072/zenodo.1234567"
+abstract: "This 2-hour long unit provides trainers with the core skills and knowledge to teach the nuances of licensing research outputs. After completing the unit, the trainer will be able to reflect on how to tailor the content to their local environment, and have more knowledge about when to apply licenses throughout a project, while complying with funders, institutional requirements and the research discipline/aims of the project."
+primaryLanguage: "en"
+license: "(https://creativecommons.org/licenses/by/4.0/deed.en)"
+versionDate: "2024-02-22"
+urlToResource: "to be completed"
 resourceURLType: "URL"
-targetGroup: "Principle users(s) for which the resource was designed."
-learningResourceType: "The predominant type or kind that characterizes the learning resource."
-learningOutcome: 
-    - Descriptions of what knowledge, 
-    - skills or 
-    - abilities 
-    - students should acquire on completion of the resource.
-accessCost: "Choice stating whether or not there is a fee for use of the resource (CV = Y/N/Maybe with recommendation that further explanation of “Maybe” goes in the Description field"
-expertiseLevel: "Target skill level in the topic being taught; example values include: beginner, intermediate, advanced"
+targetGroup: "Data stewards, Data professionals"
+learningResourceType: "Learning Path, Project Milestone"
+learningOutcome: "Data professionals who have completed the learning path will be able to engage in and motivate the research process to accommodate more available and licensed data, Data professionals who have completed the learning path can demonstrate how licenses can restrict or open up access to research output, Data professionals who have completed this learning path can problematise the application of licenses and thus consider with the relevant stakeholder ethical and legal concerns as well as hesitations regarding licensing research output."
+accessCost: "Open Access"
+expertiseLevel: "Intermediate"
 ---
 
 ![Header with Skills4EOSC funding information](./attachments/header.png)
