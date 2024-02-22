@@ -1,22 +1,10 @@
 ---
 # RDA learning materials metadata minimal set
 title: "Open Licenses for data, code and software."
-author: 
-    - Diane Antoine 
-    - Mathilde Bernier  
-    - Mareike Buus
-    - Benjamin Derksen
-    - Christine Hadrossek
-    - Karsten Kryger Hansen
-    - Joanna Janik
-    - Nida van Leersum
-    - Carolin Leister
-    - Fabian Schuboe
-    - Saba Sharma
-    - Lorna Wildgaard
+author: "Diane Antoine, Mathilde Bernier , Mareike Buus, Benjamin Derksen, Christine Hadrossek, Karsten Kryger Hansen, Joanna Janik, Nida van Leersum, Carolin Leister, Fabian Schuboe, Saba Sharma, Lorna Wildgaard"
 tags: 
     - Learning materials, training, data stewardship, licensing research output, FAIRdata, requirements
-    - Facilitated workshop or webinar
+    - Facilitated webinar
 
 abstract: "This 2-hour long unit provides trainers with the core skills and knowledge to teach the nuances of licensing research outputs. After completing the unit, the trainer will be able to reflect on how to tailor the content to their local environment, and have more knowledge about when to apply licenses throughout a project, while complying with funders, institutional requirements and the research discipline/aims of the project."
 primaryLanguage: "en"
@@ -33,15 +21,15 @@ expertiseLevel: "Intermediate"
 
 ![Header with Skills4EOSC funding information](./attachments/header.png)
 
-# Title of training 
+# Open Licenses for data, code and software
 
-# Type (Course/Workshop/Webinar)
+# Type (Webinar)
 
-## Date/Time: when it will be offered
+## Date/Time: to be completed
 
 - put available from date if it is self-paced
 
-## Location
+## URL to Skills4EOSC platform to be added
 
 - where it will be available
 - physical location
@@ -49,12 +37,14 @@ expertiseLevel: "Intermediate"
 
 ## Training Description
 
-- what is the main goal/purpose of this training
-- short training description
+This 2-hour long unit provides trainers with the core skills and knowledge to teach the nuances of licensing research outputs. After completing the unit, the trainer will be able to reflect on how to tailor the content to their local environment, and have more knowledge about how and when to apply licenses throughout a project, while complying with funders, institutional requirements and the research discipline/aims of the project.
+Licensing is a complex topic, hence we present a very thorough slide deck covering many aspects of licensing. As this learning path thus has a wealth of slides, and  the instructor should choose which slides best suit a given occasion.  We leave this slimming down of the content at the discretion of the instructor, and the context and target group in which they are teaching.
 
-## Target audience: target audience description
 
-## Expertise Level / Skill Level: Beginner / Intermediate / Advanced
+## Target audience: Data Stewards, Data Professionals. The ´learning path was originally created as the pilot Train the Trainer, for data stewards as part of the Skills4EOSC projekt
+
+
+## Expertise Level / Skill Level: Intermediate
 
 ## Primary Language: English
 
@@ -62,19 +52,30 @@ expertiseLevel: "Intermediate"
 
 ## Prerequisites
 
-- if any
+This unit is the second unit in a learning path about licenses. The learning path consists of three modules in total. There is a progression between modules. To get the full benefit of this unit, unit 2, it is expected that the learner has taken an introduction to research data management and has the following basic understanding of licenses:
+- The learner has a basic knowledge of what Creative Common Licenses are
+- The learner has a basic knowledge of the common terms used in licensing, such as “attribution”, “copyleft” and “non-commercial”
+- The learner has a basic understanding of the difference between a waiver and a license
+- The learner has basic awareness of restrictions to licensing data as well as an awareness that funders, publishers, the research project and disciplines can have different requirements to licensing research output
+- The learner is aware of the need to contact a legal expert (the boundaries of their expertise)
+
 
 ## Duration
 
-- total training duration
+- 120 mins
 
 ## Training objectives
 
-- list of specific training objectives
+After completing this unit you will be able to:
+- Explain the different types of licenses that can be applied to FAIR research outputs in accordance with regulations, policies and other legal requirements.
+- Apply (multiple) licenses appropriately during the development and publication of a research output
+- Argue for the choice of one or more appropriate licenses to research output and identify the importance of creating machine-readable rights statements.
+- Engage in the research process and influence the research process to accommodate for more available and licensed data 
+
 
 ## Keywords
 
-Keywords or tags used to describe the training.
+Learning materials, training, data stewardship, licensing research output, FAIRdata, requirements
 
 ## Agenda: Training Schedule - Training Structure
 
