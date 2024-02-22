@@ -1,8 +1,9 @@
 ---
 # RDA learning materials metadata minimal set
-title: "The human readable name of the learning resource."
+title: "Open Licenses - data, code and software."
 author: 
-    - Name of entity(ies) 
+    - Diane Antoine 
+    - Mathilde Bernier  Mareike Buus, Benjamin Derksen, Christine Hadrossek, Karsten Kryger Hansen, Joanna Janik, Nida van Leersum, Carolin Leister, Fabian Schuboe, Saba Sharma,Lorna Wildgaard
     - authoring the resource
 tags: 
     - Keywords
