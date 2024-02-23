@@ -97,7 +97,7 @@ Learning materials, training, data stewardship, licensing research output, FAIRd
 
 - No tools or software need to be installed or sourced before or during the workshop.
 - If the training is held onsite and the instructor wants to demonstrate some of the tools discussed during the training, an internet connection will be needed
-- Learning Activity Sheet ADD LINK TO SHEET
+- [Learning Activity Sheet](https://github.com/Task-4-2/Open-Licenses-data-code-and-software/blob/main/Learning%20activities_OpenLicences%20(Data%2C%20Code%2C%20Software).docx)
 
 ## Assessment
 - Formative, through 3 learning activities. During the ice-breaking activity, the participants are assigned a course partner. After the training fhe participants review their course partner's answers to the learning activities. Within 7 working days of the training event, each participant updates their answers to the learning activities and submits their Learning Activity Sheet to the training administrator.
