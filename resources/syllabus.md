@@ -84,12 +84,12 @@ Learning materials, training, data stewardship, licensing research output, FAIRd
 | 00:00-00:10| Introduction & Housekeeping  |
 | 00:10-00:20  | Ice-breaking  | 
 | 00:20-00:30  | Why you shouldn't license research data      | 
-| 00:30-00:40  | Learning Activity   | 
+| 00:30-00:40  | [Learning Activity](https://github.com/Task-4-2/Open-Licenses-data-code-and-software/blob/main/resources/Learning%20Unit/Activities/activity_details_template.md)   | 
 | 00:40-00:45 | Break      | 
 | 00:45-65:00 | What to consider before applying licenses to research output  | 
-| 65:00-75:00  | Learning Activity   | 
+| 65:00-75:00  | [Learning Activity](https://github.com/Task-4-2/Open-Licenses-data-code-and-software/blob/main/resources/Learning%20Unit/Activities/activity_details_template.md)    | 
 | 75:00-95:00  | How to apply licenses to research output   |
-| 95:00-105:00  | Learning Activity  |
+| 95:00-105:00  | [Learning Activity](https://github.com/Task-4-2/Open-Licenses-data-code-and-software/blob/main/resources/Learning%20Unit/Activities/activity_details_template.md)   |
 | 105:00-115:00 | Summing up the workshop and homework  |
 
 
