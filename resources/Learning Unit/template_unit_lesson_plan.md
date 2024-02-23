@@ -9,24 +9,41 @@ tags:
 
 # Unit Lesson Plan Template
 
-## Unit Name
+## Open Licenses for Data, Code and Software
 
-Aim/Goal of unit
+This 2-hour long unit provides trainers with the core skills and knowledge to teach the nuances of licensing research outputs. After completing the unit, the trainer will be able to reflect on how to tailor the content to their local environment, and have more knowledge about how and when to apply licenses throughout a project, while complying with funders, institutional requirements and the research discipline/aims of the project.
+
+Licensing is a complex topic, hence we present a very thorough slide deck covering many aspects of licensing. As this learning path thus has a wealth of slides, and  the instructor should choose which slides best suit a given occasion.  We leave this slimming down of the content at the discretion of the instructor, and the context and target group in which they are teaching.
+
+**Summary and Learning Outcomes**
+The unit is a facilitated training event with a reflective assignment which is completed within 7 days of the training event. Feedback to the reflective assignment is conducted through peer-to-peer feedback. The learner is required to conduct peer review on another learner’s responses to learning activities introduced during the training event. As such, the unit supports continuous and deep learning regarding the following key takeaways:
+- The unit addresses different types of licenses that can be applied to FAIR research outputs in accordance with regulations, policies and other legal requirements and further problematizes the application of licences, requiring the learner to consider ethical concerns and risks there can be for the owner of the data (software and code) when contractually obliged or required by policy to share their data (software and code).
+- The unit provides ideas for mitigation strategies and arguments data professionals may consider when applying licenses
+- The unit provides a practical approach to how to apply (multiple) licenses appropriately during the development and publication of a research output
+
+**Learning Outcomes**
+- Data professionals who have completed the learning path will be able to engage in and motivate the research process to accommodate more available and licensed data.
+- Data professionals who have completed the learning path can demonstrate how licenses can restrict or open up access to research output
+- Data professionals who have completed this learning path can problematise the application of licenses and thus consider with the relevant stakeholder ethical and legal concerns as well as hesitations regarding licensing research output.
+
 
 ### Location
-- is it going to be online or physical
-- if physical any special room type should be noted (e.g. classroom, IT lab, ...)
+- Facilitated training that works well online or physically
 
 ### Total duration
+- 120 mins
 
 ### Number of attendees
-- important to know the max group size
-- can be a number range (e.g. 20-30)
+- The training builds on discussing and sharing experiences/knowledge. Minimum 6 persons. 
 
 ### Learning objectives
-- list the learning objectives that are to be achieved
-- learning objectives should be devised using the verbs from the Bloom's Taxonomy
-- learning objectives should be SMART
+After completing this unit you will be able to:
+- Identify if licenses can be applied, and know mitigation strategies to apply the licenses anyhow.
+- Explain the different types of licenses that can be applied to FAIR research outputs in accordance with regulations, policies and other legal requirements. 
+- Apply (multiple) licenses appropriately during the development and publication of a research output
+- Argue for the choice of one or more appropriate licenses to research output and identify the importance of creating machine-readable rights statements and applying the statement to a data package
+- Engage in the research process and influence the research process to accommodate for more available and licensed data 
+
 
 ### Plan
 | Time | Topic             | Key Messages     | Prompts    | Resources    |
@@ -44,22 +61,24 @@ Aim/Goal of unit
 | 115:00-120:00 | Wrapping up    |  Point to where the participants can learn more, show the references on the slides |  Put the link to  evaluation form in the chat   |Slide 57 - 60   |
 
 
-Note: If the training is relying heavily on presentations then another option for the plan layout is to provided in a slide by slide using slide thumbnails in the topic column. In this case each row in the table should refer to a separate slide in the presentation.
-
 
 ### Assessment
-- what, how, when
-- is it going to be formative (throughout) or summative (in the end)
-- results how and when
+- Formative, through 3 learning activities. The students review each others answers to the learning activities. Within 7 working days of the training event, each learner updates their answers to the learning activities according and submit their answers to the training administrator.
+
 
 ### Certificate or Badge
-- micro-credentials for the unit
-- if certificate or badge is issued then explain how it can be gained
+- Badge on reception of the revised learning activities
+
 
 ### Reflection
-- how did it go
-- highlights: what went great
-- improvement points: what went wrong
+We encourage the participants to reflect individually over the following points, for about 3 mins. The instructor can then invite a few participants to share their thoughts, but it is not the intention of the reflection to hear everyones’ experiences. Rather the reflection is to encourage thought and action.
+
+The instructor introduces the reflection points presented on a slide at the end of the training session: 
+- What were you happy about learning today? (YES!)
+- Which good points are you taking with you? (AHA!)
+- A challenge or dilemma you need to consider? (Hmm)
+- What will you do differently  from now  on? (Go do!)
+
 
 ### Comments
 - any additional comments from external parties acting as co-creators
