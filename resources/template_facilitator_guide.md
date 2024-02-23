@@ -17,6 +17,7 @@ Licensing is a complex topic, **hence we present a very thorough slide deck cove
 ## Conducting the training and requirements to the instructor(s)
 The training concept is facilitated, discussion led, either online or physical. The material is designed for participants with a basic knowledge of licensing but have the need to discuss with peers and reflect over licensing issues. Accordingly, the trainer needs the ability to be a facilitator and engage participants in discussions. It is not expected the trainer has all the answers and we strongly recommend a "maker approach" to traing, where knowledge and learning are created together.
 
+
 ## Lesson plan
 
 | Time | Topic             | Key Messages     | Prompts    | Resources    |
@@ -34,6 +35,7 @@ The training concept is facilitated, discussion led, either online or physical. 
 | 115:00-120:00 | Wrapping up    |  Point to where the participants can learn more, show the references on the slides |  Put the link to  evaluation form in the chat   |Slide 57 - 60   |
 
 
+
 ## Reflection exercise
 We encourage the participants to reflect individually over the following points, for about 3 mins. The instructor can then invite a few participants to share their thoughts, but it is not the intention of the reflection exercise to hear everyones’ experiences. Rather the reflection is to encourage thought about further action the individual will take moving forward.
 
@@ -47,6 +49,7 @@ The instructor introduces the reflection points, reading them out loud from slid
 
 # Instructor notes for the three topics taught in the learning unit
 
+
 ## Unit 1: Why you shouldn’t license your research output
 To introduce the topic of licensing, in this unit we start by asking the students why they should NOT license their data. In this way, they can share any experiences they may have had with people who were reluctant to use licenses for research data. Based on these shared experiences, the instructor can then begin to teach and discuss the advantages of and hesitations towards licensing data in contexts relevant for the learners.
 
@@ -56,7 +59,7 @@ To introduce the topic of licensing, in this unit we start by asking the student
 - When faced with a reluctance to use a license, it is necessary to insist that it is not a constraint but a benefit for the researcher himself and for his scientific community (protection of one’s right, more citations, more re-use).
 
 
-# Instructor notes unit 1
+## Instructor notes unit 1
 
 **Slides 2-4:** Introduction and housekeeping. These slides lay out the overview of the learning path, some ground rules, learning objectives and an overview of what the data steward can expect from this 2 hour learning path. These 10 minutes can be used to introduce trainers and helpers, share the agenda and learning objectives (as shown on the slides). Instructors can reiterate that this an intermediate learning path aimed at data stewards who may know some basics about licensing, and are keen to develop the knowledge further.
 
@@ -73,6 +76,7 @@ To introduce the topic of licensing, in this unit we start by asking the student
 **Slide 13:** This learning activity uses two question prompts to engage participants in a discussion about how they would advocate for license use among researchers who were reluctant to use licenses. Participants can choose from the two scenarios. It is possible that there is not enough time in the learning path to discuss each breakout group or participant response in detail, in this case participants will be asked to share reflections from the learning activity after the session. 
 
 
+
 ## Unit 2: What to consider before applying licenses to research outputs
 This unit addresses challenges for data stewards and researchers when sharing and licensing research outputs. These challenges arise in connection with requirements from external stakeholders like funders and publishers, ethical or legal obligations, and in relation to intellectual property rights and commercialization. The learner is made aware of factors that can negatively impact the novelty of research outputs and make sharing and licensing research data, software and code unattractive. Finally, mitigation strategies are introduced that a data steward can employ to adhere to external requirements and obligations, while at the same time protecting researchers’ rights to their data.
 
@@ -81,7 +85,7 @@ This unit addresses challenges for data stewards and researchers when sharing an
 - Mitigation strategies can help to navigate these partially contradicting requirements and maintain the ability to share and license research outputs.
 - You have to be aware of the benefits and risks of choosing one licensing pathway over another.
 
-# Instructor notes unit 2
+## Instructor notes unit 2
 
 The aim of this unit is to encourage a discussion of the different requirements, policies and regulation that can influence the sharing and licensing of research outputs. The unit begins with a presentation of the research life cycle and how licences may influence a project’s dissemination strategy. Then, the unit introduces funder and journal requirements, ethical concerns, personal data and contractual obligations that research outputs may be subject to. Finally, the unit explores how licensing may raise concerns about maintaining the novelty of licensed data (software and code), commercialisation, copyright infringement, dual use and rights to assign licenses.
 Slides 17 through 36 present all the factors influencing the sharing and licensing of research outputs one by one. Each factor is presented on two slides. The first slide introduces the factor and gives a concrete example of where a researcher – or you as a data steward – may come across a given requirement (something you should comply with) or an expectation (something you can comply with). The second slide expands on the concrete example and points to potential mitigation strategies. Mitigation strategies are ways of balancing the given requirements or expectations with other potentially contradicting requirements or expectations and thereby maintain your ability to share and license research outputs. Assigning a license is a capability that you must have, and the mitigation strategies are ways to have that capability at the time of licensing.
@@ -122,4 +126,18 @@ Learn more about licence compatibility in Europe in Graux 2023. Learn more about
 
 
 ## Unit 3: practical application of licenses to (FAIR) research output
+Following on from the abstract discussion and after checking the ability to license research outputs in unit 2, this third unit is dedicated to the concrete process of choosing the appropriate license. It presents the learner with practical tools and guides. At first, there is a global introduction with an overview of different licenses that are available to license data, software or code. Then, a step-by-step guide to license research output is suggested :
+- Step 1 (to be prepared to award a license): identify the holder of the copyright
+- Step 2 (when awarding a license): how to chose the perfect license for your research output and what considerations should be taken into account when doing it. Some tools are suggested that can help the student.
+- Step 3 (after awarding a license): the work is not over quite yet, some things need to be checked once the license is awarded : the trainer briefly addresses the importance of human and machine readability and licensing metadata.
+
+**Key takeaways:**
+- The research product are not equal in legal terms and require specific licenses to be used. There are many different licenses available, each one having its own characteristics. For each project, you need to identify the nature of the product to be opened, according to which specific licenses are applicable
+
+- There are some free online tools that can guide you towards finding the perfect license considering your own needs and conditions.
+
+- Even when you have found the license that perfectly match your needs, your work is not over just yet. You still have to check its readability :
+ - for humans : how your choice of license is expressed when landing on your research output page;
+ - for machines : for interoperability.
+
 
