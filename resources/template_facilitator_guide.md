@@ -126,7 +126,8 @@ Learn more about licence compatibility in Europe in Graux 2023. Learn more about
 
 
 ## Unit 3: practical application of licenses to (FAIR) research output
-Following on from the abstract discussion and after checking the ability to license research outputs in unit 2, this third unit is dedicated to the concrete process of choosing the appropriate license. It presents the learner with practical tools and guides. At first, there is a global introduction with an overview of different licenses that are available to license data, software or code. Then, a step-by-step guide to license research output is suggested :
+Following on from the abstract discussion and after checking the ability to license research outputs in unit 2, this third unit is dedicated to the concrete process of choosing the appropriate license. It presents the learner with practical tools and guides. 
+The unit starts with a global introduction with an overview of different licenses that are available to license data, software or code. Then, a step-by-step guide to license research output is suggested :
 - Step 1 (to be prepared to award a license): identify the holder of the copyright
 - Step 2 (when awarding a license): how to chose the perfect license for your research output and what considerations should be taken into account when doing it. Some tools are suggested that can help the student.
 - Step 3 (after awarding a license): the work is not over quite yet, some things need to be checked once the license is awarded : the trainer briefly addresses the importance of human and machine readability and licensing metadata.
@@ -140,4 +141,66 @@ Following on from the abstract discussion and after checking the ability to lice
   - for humans : how your choice of license is expressed when landing on your research output page;
   - for machines : for interoperability.
 
+## Instructor notes unit 3
+**Slide 39:** Presents an overview of different type of existing licenses.  
+- The aim is to present a variety of different licenses and explain that  they meet different needs. Some are internationally recognized and  widely shared, while others are country-specific. 
+- Point out, if  necessary, that a license is a legal instrument allowing the holder of  the rights in a work to grant certain rights over the use of that work. 
+- The Public domain icon allows you to introduce the concept of  intellectual property, discuss the restrictions that may be applied  under states laws and to enter the subject of the rights granted by the  licenses. 
+- One or two licenses can be looked at more closely to  examine the terms and conditions for use (or you can use the SPDX list  for this) 
+
+**Slide 40:** Question who has the right to license in our public institutions and the latitude researchers have  to publish, distribute and communicate their data.  
+- To keep things simple, we consider 3 types of research outputs as examples : data set, data base, software  
+- The aim here is to explain that researchers do not have all the rights to scientific production, and that before granting a license it is  necessary to determine who is entitled to do so, what is protected and  under what legal conditions. 
+- Only the holder of the rights, can define and impose a distribution license for his work. 
+
+**Slide 41 (What is the appropriate license for my research output):** This slide explains which licenses (most popular) can be used for the 3  types of reseach output described above (one of these licenses is  specifically french). 
+- The aim is to explain that some licenses  are more suitable with a research output than others : For example CC  licenses should not be used for software, specific licenses are  available for databases such as Open Data Commons and CC licenses are  not suitable for databases before version 4.0 
+- The various research outputs are not all of the same nature in the legal sense, and require specific licenses to be used. 
+- Concerning the different type of software licenses, you can explain  that there are different types of licenses and a possible progression  towards different degrees of freedom: 
+ -  without copyleft  (permissive license). The initial license is not mandatory. It is  possible to redistribute and modify but also to add restrictions,  
+ -  low copyleft for which the initial license remains and additions can have another license and also  
+ -  strong copyleft where the license imposes itself on everything. 
+
+*Teaching hint: If you want to discuss the subject of software a little more deeply*
+*- Some Key notions can be explained :  What does the term "free software" refer to? What is the difference with "open software"*
+*- Explain that the term "free software" refers to the freedom for the  users to run, copy, distribute, study, modify and improve the software.* 
+*- Explain that a free software or "libre software" isn't necessarily cost-free*
+*- Clarify that although open source software is made available to the  public free of charge, it is not part of the public domain, some  licenses may authorize copyright protection and the sale of works  derived from open source code* 
+*- Explain that open source is based on the principles of free software, but with ten prerequisites (see the definition)* 
+*- Explain that free or open source software is not “free of rights”* 
+*- Explain that most software are free and open source at the same time  and in this case refer to the same thing : the source code is publicly  accessible and can be personalized*
+
+**Slide 42:Creative Commons (Focus)** 
+The table is here to help understand and use Creative commons 
+- The aim is to understand the interests and challenges of creative commons licenses. 
+- Remind the public that creative commons licenses are contracts by which  the author of a creation (be it a document, a drawing, software, a  video, or even a database) authorizes, in advance, anyone to exploit,  distribute, modify or develop his or her creation, provided he or she  complies with its conditions.. 
+- Consider the different licenses:  what are the different options? how do we choose the license that best  suits our needs? How to combine licenses? 
+- The fact sheet on creative commons can be used as a basis for discussion or just to illustrate common concerns. 
+
+**Slide 43: Licenses advantages and limitations (example of the UK context)** 
+This table shows licenses that are used in the british context. It is to show that each license has advantages and  limitations. It illustrates the fact that every consideration should be  taken into account when choosing a license. 
+What to do in practice while awarding a license 
+The next few slides are dedicated to the while and after choosing a license, decomposing the choosing process step by step. 
+·	If reusing already existing data, be careful of the terms and condition  under which it can be reused. It might not possible to reuse it. 
+·	When awarding a license, you can use online tools to guide you (five examples are given in the two following slides). 
+·	Take a moment to remind learners that the license choice cannot go  without taking the file format into account. In the idea of choosing a  license as open as possible, you should also choose a format that is as  open as possible. 
+What to do in practice while awarding a license – the tools 1 
+·	The "Choo-choo-choose your license" illustration shows how you can  choose a CC license when taking into account your needs and  considerations and what is expected from the license. 
+·	Choosealicense and the EUDAT license selector wizard are two online tools that can help in the same way. 
+The trainer can take a few minutes to go online and demonstrate one or both tools (need for an internet connection). 
+What to do in practice while awarding a license – the tools 2 
+·	The ARDC published a Research Data Rights guide that can be useful 
+·	The Joinup Licensing Assistant can be used if awarding a license for a  software. It works on the same principle as Choosealicence and the EUDAT  license selector wizard : you pick your conditions and needs and it  shows you what license might be more adapted to your situation. 
+As for the previous slide and depending on the time available, the trainer can take a few minutes to show the guide and / or demonstrate the Joinup Licensing Assistant. 
+All the tools presented on this slide  and the previous one do not need to be demonstrated, but one or two  might give good example of what is available online. 
+What to do in practice after awarding a license ? 
+This checklist slide contains recommendations that can be commented on  
+·	The idea is to raise awareness of the fact that once you've chosen a  license, it's advisable to indicate and explain your choices. 
+·	An example of statement is provided to illustrate a good practice. 
+A minute about machine readability 
+This  slide points out the importance of the license machine readability. It  can be commented briefly. On the practical side, it is handled by the  chosen repository - but trainees need to understand why the license  needs to be both human and machine readable. The anatomy of a CC license  is given as an example. 
+A minute about licensing metadata 
+This  slide reads like the previous one : you can explain it briefly. The  idea is to show that metadata can have their own separated license and  to explain why they should be as open as possible since they can be  reused on their own. 
+Takeaways
+The trainer focuses on three main points presented in the unit and can answer potential questions.
 
