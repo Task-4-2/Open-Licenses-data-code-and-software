@@ -19,8 +19,8 @@ The training concept is facilitated, discussion led, either online or physical. 
 
 ## Lesson plan
 
-| Date/Time | Topic             |
-|-----------|-------------------|
+| Date/Time | Topic             | Key Messages     | Prompts    | Resources    |
+|-----------|-------------------| -----------------|------------|--------------|
 | 00:00-00:10| Introduction & Housekeeping  |
 | 00:10-00:20  | Ice-breaking  | 
 | 00:20-00:30  | Why you shouldn't license research data      | 
