@@ -137,7 +137,7 @@ Following on from the abstract discussion and after checking the ability to lice
 - There are some free online tools that can guide you towards finding the perfect license considering your own needs and conditions.
 
 - Even when you have found the license that perfectly match your needs, your work is not over just yet. You still have to check its readability :
- - for humans : how your choice of license is expressed when landing on your research output page;
- - for machines : for interoperability.
+  - for humans : how your choice of license is expressed when landing on your research output page;
+  - for machines : for interoperability.
 
 
