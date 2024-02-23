@@ -79,37 +79,47 @@ Learning materials, training, data stewardship, licensing research output, FAIRd
 
 ## Agenda: Training Schedule - Training Structure
 
-| Date/Time | Topic             |
+| Date/Time | Topic             | 
 |-----------|-------------------|
-| timeslot  | training unit 1   |
-| timeslot  | training unit 2   |
-| timeslot  | coffee break      |
-| timeslot  | training unit 3   |
-| timeslot  | lunch break       |
-| timelsot  | training unit 4   |
-| timeslot  | training unit 5   |
+| 00:00-00:10| Introduction & Housekeeping  |
+| 00:10-00:20  | Ice-breaking  | 
+| 00:20-00:30  | Why you shouldn't license research data      | 
+| 00:30-00:40  | Learning Activity   | 
+| 00:40-00:45 | Break      | 
+| 00:45-65:00 | What to consider before applying licenses to research output  | 
+| 65:00-75:00  | Learning Activity   | 
+| 75:00-95:00  | How to apply licenses to research output   |
+| 95:00-105:00  | Learning Activity  |
+| 105:00-115:00 | Summing up the workshop and homework  |
+
 
 ## Resources and Materials
 
-- location of available resources for the training
+- No tools or software need to be installed or sourced before or during the workshop.
+- If the training is held onsite and the instructor wants to demonstrate some of the tools discussed during the training, an internet connection will be needed
+- Learning Activity Sheet ADD LINK TO SHEET
+
+## Assessment
+- Formative, through 3 learning activities. During the ice-breaking activity, the participants are assigned a course partner. After the training fhe participants review their course partner's answers to the learning activities. Within 7 working days of the training event, each participant updates their answers to the learning activities and submits their Learning Activity Sheet to the training administrator.
+
 
 ## Certification Information
 
-- if any
+- Badge on reception of completed Learning Activity Sheet
 
 ## Author(s)
 
-- List of people involved in preparing the training
-- format: Name Surname, comma separated
+- Diane Antoine, Mathilde Bernier , Mareike Buus, Benjamin Derksen, Christine Hadrossek, Karsten Kryger Hansen, Joanna Janik, Nida van Leersum, Carolin Leister, Fabian Schuboe, Saba Sharma, Lorna Wildgaard
+
 
 # Trainer(s)
 
-- List of people involved in delivering the training
+- To be up-dated
 - format: Name Surname [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0123-4561-8999-9999), Name Surname [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0123-4561-8999-9999), ...
 
 ## Contact information
 
-- how to reach out to training organizers
+- how to reach out to training organizers To be updated
 
 ## License
 
@@ -117,7 +127,7 @@ Learning materials, training, data stewardship, licensing research output, FAIRd
 
 ## DOI
 
-[https://doi.org/10.5072/zenodo.1234567](https://doi.org/10.5072/zenodo.1234567)
+[https://doi.org/10.5072/zenodo.1234567](https://doi.org/10.5072/zenodo.1234567) TO BE UPDATED
 
 ## Accessibility Mission
 
