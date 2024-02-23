@@ -68,7 +68,7 @@ To introduce the topic of licensing, in this unit we start by asking the student
 
 **Slide 5:** Icebreaker. These 10 minutes can be used for participants to introduce themselves to one another using the prompts on the slides. For an in-person training, this could be done in small breakout groups. If the training is virtual, it could also be done on a collective document (google doc/hackMD) to enable participation.
  
-**Slide 6-7:** A glossary of common terms intended an a handout
+**Slide 6-7:** A [glossary of common terms](https://github.com/Task-4-2/Open-Licenses-data-code-and-software/blob/main/Glossary_Licensing%20data%20(Code%20%26%20Software).docx) intended an a handout
 
 **Slide 8-9:** This unit is titled ‘Why you shouldn’t license your research output’ and is intended to be provocative. The aim is for the instructor to use common scenarios encountered by data stewards where researchers may be hesitant to apply licenses, and for the instructor to advocate for license use through addressing each scenario in turn. 
 
