@@ -22,9 +22,9 @@ The training concept is facilitated, discussion led, either online or physical. 
 | Time | Topic             | Key Messages     | Prompts    | Resources    |
 |-----------|-------------------| -----------------|------------|--------------|
 | 00:00-00:10| Introduction & Housekeeping  |Introduce trainers, learning objectives, code of content, present schedule, learning activities (including peer review concept) and certification and expectations for the session |    |Slide 1 - 4    |
-| 00:10-00:20  | Ice-breaking  | Trainers get to know each other and find a course partner    | Breakout room discussions of 5 persons    |Slide 5    |
-| 00:20-00:30  | Why you shouldn't license research data      | 
-| 00:30-00:40  | [Learning Activity](https://github.com/Task-4-2/Open-Licenses-data-code-and-software/blob/main/resources/Learning%20Unit/Activities/activity_details_template.md)   | 
+| 00:10-00:20  | Ice-breaking  | Trainers get to know each other and find a course partner    | Breakout room discussions of an even number, eg. 4 or 6 persons    |Slide 5    |
+| 00:20-00:30  | Why you shouldn't license research data      | Advocate for the advantages of licensing    | This topic will cover the hypotheticals which the trainees can discuss with the instructor    |Slide 6 - 10    |
+| 00:30-00:40  | Learning Activity 1 |  Scenario advising a researcher against licensing data| Discuss and argue for the benefits of licensing   |Slide 11 and [Learning Activity 1](https://github.com/Task-4-2/Open-Licenses-data-code-and-software/blob/main/resources/Learning%20Unit/Activities/activity_details_template.md)     |
 | 00:40-00:45 | Break      | 
 | 00:45-65:00 | What to consider before applying licenses to research output  | 
 | 65:00-75:00  | [Learning Activity](https://github.com/Task-4-2/Open-Licenses-data-code-and-software/blob/main/resources/Learning%20Unit/Activities/activity_details_template.md)    | 
