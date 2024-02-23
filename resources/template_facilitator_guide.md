@@ -30,4 +30,41 @@ The training concept is facilitated, discussion led, either online or physical. 
 | 65:00-75:00  | Learning Activity 2  | Research is often influenced by many different stakeholders, so it is tricky to choose the right license | Assessing a test case: How can you share and license the research outputs? Think for yourself and write down your considerations in the learning activity sheet (3 minutes). Then collect the answers in plenum (7 minutes)  |Slide 36 and [Learning Activity 2](https://github.com/Task-4-2/Open-Licenses-data-code-and-software/blob/main/resources/Learning%20Unit/Activities/activity_details_template.md)     |
 | 75:00-95:00  | How to apply licenses to research output   | Tools and guides to choose the correct licenses | Remember that different institutions may have policies regulating the ability for a researcher to  license research data.   |Slide 38 - 52|
 | 95:00-105:00  | Learning Activity 3     |    |    |Slide 53 and [Learning Activity 3](https://github.com/Task-4-2/Open-Licenses-data-code-and-software/blob/main/resources/Learning%20Unit/Activities/activity_details_template.md)     |
-| 105:00-115:00 | Summing up the workshop and homework  |  Repeat the participants obligation to conduct peer review of their course partners learning sheet. Ensure that all participants have a course partner and have exchanged contact information.                       Ensure that all participants understand that they have to send in their completed learning activity sheets within seven working days.  Ensure everyone knows where to send the completed learning sheets.   |Reflection, Point to where the participants can learn more and put the link to the Evaluation form in the chat  |Slide 54 - 55|
+| 105:00-115:00 | Summing up the workshop and homework  |  Repeat the participants obligation to conduct peer review of their course partners learning sheet. Ensure that all participants have a course partner and have exchanged contact information.                       Ensure that all participants understand that they have to send in their completed learning activity sheets within seven working days.  Ensure everyone knows where to send the completed learning sheets.   |Reflection exercise (explained below).  |Slide 54 - 56|
+| 115:00-120:00 | Wrapping up    |  Point to where the participants can learn more, show the references on the slides |  Put the link to  evaluation form in the chat   |Slide 57 - 60   |
+
+## Reflection exercise
+We encourage the participants to reflect individually over the following points, for about 3 mins. The instructor can then invite a few participants to share their thoughts, but it is not the intention of the reflection exercise to hear everyones’ experiences. Rather the reflection is to encourage thought about further action the individual will take moving forward.
+
+The instructor introduces the reflection points, reading them out loud from slide 55. The first question enourages the participant to think about what they have learned during the session. The second question concerns the particpants AHA! moment and links to questions three and four. In question three, the participants thinks about something discussed during the training session they need to consider further while question 4 leads to action - what will they do differently from now on?
+
+- What were you happy about learning today? (YES!)
+- Which good points are you taking with you? (AHA!)
+- A challenge or dilemma you need to consider? (Hmm)
+- What will you do differently  from now  on? (Go do!)
+
+# Instructor notes for the three topics taught in the learning unit
+
+## Unit 1: Why you shouldn’t license your research output
+To introduce the topic of licensing, in this unit we start by asking the students why they should NOT license their data. In this way, they can share any experiences they may have had with people who were reluctant to use licenses for research data. Based on these shared experiences, the instructor can then begin to teach and discuss the advantages of and hesitations towards licensing data in contexts relevant for the learners.
+
+**Key takeaways:**
+- Applying a licence is of crucial importance for disseminating a research product. 
+- The choosing to apply a license is a determinant stage in the process of diffusing a research product. This choice has concrete consequences and should not be taken lightly.
+- When faced with a reluctance to use a license, it is necessary to insist that it is not a constraint but a benefit for the researcher himself and for his scientific community (protection of one’s right, more citations, more re-use).
+
+# Instructor notes
+
+**Slides 2-4:** Introduction and housekeeping. These slides lay out the overview of the learning path, some ground rules, learning objectives and an overview of what the data steward can expect from this 2 hour learning path. These 10 minutes can be used to introduce trainers and helpers, share the agenda and learning objectives (as shown on the slides). Instructors can reiterate that this an intermediate learning path aimed at data stewards who may know some basics about licensing, and are keen to develop the knowledge further.
+
+**Slide 5:** Icebreaker. These 10 minutes can be used for participants to introduce themselves to one another using the prompts on the slides. For an in-person training, this could be done in small breakout groups. If the training is virtual, it could also be done on a collective document (google doc/hackMD) to enable participation.
+ 
+**Slide 6-7:** A glossary of common terms intended an a handout
+
+**Slide 8-9:** This unit is titled ‘Why you shouldn’t license your research output’ and is intended to be provocative. The aim is for the instructor to use common scenarios encountered by data stewards where researchers may be hesitant to apply licenses, and for the instructor to advocate for license use through addressing each scenario in turn. 
+
+**Slides 10-11:** These slides cover the aforementioned scenarios, through imagining a hypothetical conversation between a data steward and a researcher. Each scenario/reason not to license has a counter or follow up on how licensing can help and why it is important. Instructors are encouraged to ask data stewards to reflect on similar conversations they may have had and how arguments used by the (fictional) data steward in the slides could help address some of the questions.
+
+**Slide 12:** The instructor concludes the unit by stating the takeaways. The instructor is free to develop these two elements according to the time remaining. 
+
+**Slide 13:** This learning activity uses two question prompts to engage participants in a discussion about how they would advocate for license use among researchers who were reluctant to use licenses. Participants can choose from the two scenarios. It is possible that there is not enough time in the learning path to discuss each breakout group or participant response in detail, in this case participants will be asked to share reflections from the learning activity after the session. 
