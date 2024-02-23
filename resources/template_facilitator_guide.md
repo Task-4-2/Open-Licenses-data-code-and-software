@@ -178,29 +178,37 @@ The table is here to help understand and use Creative commons
 - The fact sheet on creative commons can be used as a basis for discussion or just to illustrate common concerns. 
 
 **Slide 43: Licenses advantages and limitations (example of the UK context)** 
-This table shows licenses that are used in the british context. It is to show that each license has advantages and  limitations. It illustrates the fact that every consideration should be  taken into account when choosing a license. 
-What to do in practice while awarding a license 
-The next few slides are dedicated to the while and after choosing a license, decomposing the choosing process step by step. 
-·	If reusing already existing data, be careful of the terms and condition  under which it can be reused. It might not possible to reuse it. 
-·	When awarding a license, you can use online tools to guide you (five examples are given in the two following slides). 
-·	Take a moment to remind learners that the license choice cannot go  without taking the file format into account. In the idea of choosing a  license as open as possible, you should also choose a format that is as  open as possible. 
-What to do in practice while awarding a license – the tools 1 
-·	The "Choo-choo-choose your license" illustration shows how you can  choose a CC license when taking into account your needs and  considerations and what is expected from the license. 
-·	Choosealicense and the EUDAT license selector wizard are two online tools that can help in the same way. 
-The trainer can take a few minutes to go online and demonstrate one or both tools (need for an internet connection). 
-What to do in practice while awarding a license – the tools 2 
-·	The ARDC published a Research Data Rights guide that can be useful 
-·	The Joinup Licensing Assistant can be used if awarding a license for a  software. It works on the same principle as Choosealicence and the EUDAT  license selector wizard : you pick your conditions and needs and it  shows you what license might be more adapted to your situation. 
-As for the previous slide and depending on the time available, the trainer can take a few minutes to show the guide and / or demonstrate the Joinup Licensing Assistant. 
-All the tools presented on this slide  and the previous one do not need to be demonstrated, but one or two  might give good example of what is available online. 
-What to do in practice after awarding a license ? 
-This checklist slide contains recommendations that can be commented on  
-·	The idea is to raise awareness of the fact that once you've chosen a  license, it's advisable to indicate and explain your choices. 
-·	An example of statement is provided to illustrate a good practice. 
-A minute about machine readability 
-This  slide points out the importance of the license machine readability. It  can be commented briefly. On the practical side, it is handled by the  chosen repository - but trainees need to understand why the license  needs to be both human and machine readable. The anatomy of a CC license  is given as an example. 
-A minute about licensing metadata 
-This  slide reads like the previous one : you can explain it briefly. The  idea is to show that metadata can have their own separated license and  to explain why they should be as open as possible since they can be  reused on their own. 
-Takeaways
-The trainer focuses on three main points presented in the unit and can answer potential questions.
+This table shows licenses that are used in the british context. The advantages and disadvantages of each license can be compared. It illustrates the fact that every consideration should be taken into account when choosing a license. 
 
+**Slide 44-47: What to do in practice while awarding a license**
+These slides are dedicated to choosing a license. A step-by-step approsch is suggested.
+- If reusing already existing data, be careful of the terms and condition  under which it can be reused. It might not possible to reuse it. 
+- When awarding a license, you can use online tools to guide you (five examples are given in the two following slides). 
+- Take a moment to remind learners that the license choice cannot go  without taking the file format into account. In the idea of choosing a  license as open as possible, you should also choose a format that is as  open as possible. 
+
+**Slide 46: What to do in practice while awarding a license – the tools 1** 
+- The "Choo-choo-choose your license" illustration shows how you can  choose a CC license when taking into account your needs and  considerations and what is expected from the license. 
+- Choosealicense and the EUDAT license selector wizard are two online tools that can help in the same way. 
+*Teaching hint: The trainer can take a few minutes to go online and demonstrate one or both tools (need for an internet connection).*
+
+**Slide 47: What to do in practice while awarding a license – the tools 2**
+- The ARDC published a Research Data Rights guide that can be useful 
+- The Joinup Licensing Assistant can be used if awarding a license for a  software. It works on the same principle as Choosealicence and the EUDAT  license selector wizard : you pick your conditions and needs and it  shows you what license might be more adapted to your situation. 
+*Teaching hint: As for the previous slide and depending on the time available, the trainer can take a few minutes to show the guide and / or demonstrate the Joinup Licensing Assistant.*
+*All the tools presented on this slide  and the previous one do not need to be demonstrated, but one or two  might give good example of what is available online.*
+ 
+**Slide 48: What to do in practice after awarding a license?** 
+This checklist slide contains recommendations that can be commented on.  
+- The idea is to raise awareness of the fact that once you've chosen a  license, it's advisable to indicate and explain your choices. 
+- An example of statement is provided to illustrate a good practice. 
+
+**Slide 49: A minute about machine readability**
+This  slide points out the importance of the license machine readability. It  can be commented briefly. On the practical side, it is handled by the  chosen repository - but trainees need to understand why the license  needs to be both human and machine readable. The anatomy of a CC license  is given as an example. 
+
+**Slide 50: A minute about licensing metadata**
+This  slide reads like the previous one : you can explain it briefly. The  idea is to show that metadata can have their own separated license and  to explain why they should be as open as possible since they can be  reused on their own. 
+
+**Slide 51: Takeaways**
+The trainer focuses on three main points presented on the slide, that have beed the red thread throughout the unit. Use time to answer potential questions.
+
+**Slide 52 (Learning Activity):** See Learning Activity notes for instructions for this exercise
