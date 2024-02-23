@@ -19,7 +19,7 @@ The training concept is facilitated, discussion led, either online or physical. 
 
 ## Lesson plan
 
-| Date/Time | Topic             | Key messages | Activites           | Resources            |
+| Date/Time | Topic             |
 |-----------|-------------------|
 | 00:00-00:10| Introduction & Housekeeping  |
 | 00:10-00:20  | Ice-breaking  | 
