@@ -15,7 +15,7 @@ resourceURLType: "URL"
 targetGroup: "Data stewards, Data professionals"
 learningResourceType: "Learning Path, Project Milestone"
 learningOutcome: "Data professionals who have completed the learning path will be able to engage in and motivate the research process to accommodate more available and licensed data, Data professionals who have completed the learning path can demonstrate how licenses can restrict or open up access to research output, Data professionals who have completed this learning path can problematise the application of licenses and thus consider with the relevant stakeholder ethical and legal concerns as well as hesitations regarding licensing research output."
-accessCost: "Open Access"
+accessCost: "N"
 expertiseLevel: "Intermediate"
 ---
 
