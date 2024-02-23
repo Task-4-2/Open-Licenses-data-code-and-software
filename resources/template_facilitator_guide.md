@@ -21,7 +21,7 @@ The training concept is facilitated, discussion led, either online or physical. 
 
 | Date/Time | Topic             | Key Messages     | Prompts    | Resources    |
 |-----------|-------------------| -----------------|------------|--------------|
-| 00:00-00:10| Introduction & Housekeeping  |
+| 00:00-00:10| Introduction & Housekeeping  |housekeeping - introduce trainer and trainees - learning objectives code of content, present schedule, present homework and certification, introduce trainers and helpers, our expectations for the session |
 | 00:10-00:20  | Ice-breaking  | 
 | 00:20-00:30  | Why you shouldn't license research data      | 
 | 00:30-00:40  | [Learning Activity](https://github.com/Task-4-2/Open-Licenses-data-code-and-software/blob/main/resources/Learning%20Unit/Activities/activity_details_template.md)   | 
