@@ -47,7 +47,10 @@ The instructor introduces the reflection points, reading them out loud from slid
 - What will you do differently  from now  on? (Go do!)
 
 
+
+
 # Instructor notes for the three topics taught in the learning unit
+
 
 
 ## Unit 1: Why you shouldn’t license your research output
@@ -74,6 +77,7 @@ To introduce the topic of licensing, in this unit we start by asking the student
 **Slide 12:** The instructor concludes the unit by stating the takeaways. The instructor is free to develop these two elements according to the time remaining. 
 
 **Slide 13:** This learning activity uses two question prompts to engage participants in a discussion about how they would advocate for license use among researchers who were reluctant to use licenses. Participants can choose from the two scenarios. It is possible that there is not enough time in the learning path to discuss each breakout group or participant response in detail, in this case participants will be asked to share reflections from the learning activity after the session. 
+
 
 
 
@@ -123,6 +127,7 @@ Learn more about licence compatibility in Europe in Graux 2023. Learn more about
 **Slide 37 (summing up, identical to slide ##):** This slide provides an overview of all the factors influencing the decision of whether to share a research output (or not) and how to license it. The image of the balance is meant to visualise that sharing outputs and choosing an appropriate license is a balancing act, where many different factors like stakeholder requirements, ethical or legal obligations, regulations, policies, and rights have to be balanced in order to make the right decision. Sometimes these factors may pull into different directions or even plainly contradict one another, e.g. a journal requiring to publish data openly, when the data are personal. Or a funder requiring early data sharing, while the researcher would not want to risk not being able to publish novel findings in a prestigious journal.
 
 **Slide 38 (Learning Activity):** See Learning Activity notes for instructions for this exercise
+
 
 
 ## Unit 3: practical application of licenses to (FAIR) research output
