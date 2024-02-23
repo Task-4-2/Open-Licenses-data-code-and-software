@@ -62,5 +62,5 @@ Do you work with data or software research outputs? Go to [choosealicense.com](h
 
 
 ## Related sources
-- list any additional sources that may be useful for the activity
+- [Learning Activity Sheet](https://github.com/Task-4-2/Open-Licenses-data-code-and-software/blob/main/Learning%20activities_OpenLicences%20(Data%2C%20Code%2C%20Software).docx)
 
