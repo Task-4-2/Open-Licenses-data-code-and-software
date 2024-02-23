@@ -7,36 +7,58 @@ tags:
     - Training Activity Template
 ---
 
-# Activity name
-This document serves as a guide on how to deliver the specific training activity.
+# Learning Activity Sheet
+This document presents the three learning activities that are introduced during the training session. Each participant is given a copy of this Learning Acitivity Sheet in an editable format. During the training, the participant notes down their thoughts and immediate reflections. After the training, the participants have seven days to complete the learning activities, conduct peer review of their course partner's learning activity sheet, conduct any revisions brought up during peer review and send their learning sheet to the trainer in order to receive their badge.
 
 Summary description of the activity.
 
 ## Activity duration
+- During the workshop, the participants have 10 minutes to work with each activity
 
 ## Number of people that it can be performed with
+-minimum 2 persons
 
 ## Goal of activity
 
 ## Materials
-- list of materials needed to perform the activity
-- reference digital
-- list physical equipment
+- The participants need an editable copy of the Learning Acitivity Sheet
+- Clear instruction of who to send the completed learning activity sheet to.
 
 ## Instructions
 
-Describe how to run the activity. If the activity has several stages break them down into subheadings and provide duration for each.
+We hope that you have enjoyed the learning path and become more familiar with licensing data, software and code.
+During the learning path the activities described below will be introduced and you will have a chance to note down your answers to the questions. In order to learn more, we would like you to update your answers after the training event.
 
-List any questions the trainer should ask during the activity.
+1. **Note down your answers** to the learning activities  in this sheet as they are introduced during the topic.
+2. **Revise your answers after the training event is over** using your new knowledge and the tools that were introduced during the learning path. This should not take longer than 60 minutes.
+3. **Present your learning sheet to your course partner and ask for feedback.** Likewise, give feedback to your course partner's draft (how you will do that is up to you - you can arrange an online or face-to-face meeting or share your draft by email, for example). This should not take longer than 60 minutes.
+4. **Revise your draft** according to the feedback and questions from your course partner. This should not take longer than 30 minutes.
 
-List or link to examples of completing the activity.
+Submit the final learning sheet to the administrator of the training event. Contact information will be given on the slides.
+Note that you must submit the final document within 7 working days after the end of the training event in order to receive the badge.
+We do not grade your answers to the learning activities.
 
-## Tips and Tricks
-- if the activity can be done both physically and online, provide info on the differences and specifics for each
+## Learning activity 1: 
+Answer one of the two questions below
+1.	What advice would you give to a researcher who doesn’t want to license their data?
+2.	How might licensing research data be advantageous/disadvantageous to a researcher?
+Prepare 2 - 3 arguments in which you would advocate the use of licenses on research data. 
+
+## Learning activity 2: Sharing and licensing mixed data
+A researcher from the international project ‘NextBox’ funded by Horizon Europe with both commercial and non-commercial partners approach you to discuss public dissemination of data and code from their project. The project has made some very interesting findings on a new algorithmic approach to profile employees based on their task completion strategies. They have the data and code and have the results in peer review at a journal. The DMP was very vaguely filled with broad intentions of sharing everything.
+The data comprises 50 transcribed interviews, anonymised survey responses from the public and partly confidential results from internal design sprints at one of the industry partners. Part of the analysis is done by combining existing openly available data, some data from three proprietary sources and internal company data.
+
+The PI wants your advice on how to share and license the data from the project.
+
+**Tips consider the following**
+*Funder requirements, Journal requirements, Ethical concerns, Personal data, Contractual obligations, Reduced novelty of findings, Ability to commercialize, Copyright infringement, Dual use, Right to assign a license*
+
+What would your advice be?
+
+## Learning activity 3: Remember policy requirements!
+Do you work with data or software research outputs? Go to [choosealicense.com](https://choosealicense.com/), and go through the different options for data and software licenses.
+
 
 ## Related sources
 - list any additional sources that may be useful for the activity
 
-## Comments
-- how did it go
-- supporting the co-creation process
