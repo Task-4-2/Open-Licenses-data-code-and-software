@@ -8,7 +8,9 @@ tags:
 ---
 
 # Learning Activity Sheet
-This document presents the three learning activities that are introduced during the training session. Each participant is given a copy of this Learning Acitivity Sheet in an editable format. During the training, the participant notes down their thoughts and immediate reflections. After the training, the participants have seven days to complete the learning activities, conduct peer review of their course partner's learning activity sheet, conduct any revisions brought up during peer review and send their learning sheet to the trainer in order to receive their badge.
+This document presents the three learning activities that are introduced during the training session. Each learning activity is introduced on the background of topics raised during the prior powerpoint guided presentation and discussions. 
+
+Each participant is given a copy of this Learning Acitivity Sheet in an editable format. During the training, the participant notes down their thoughts and immediate reflections. After the training, the participants have seven days to complete the learning activities, conduct peer review of their course partner's learning activity sheet, conduct any revisions brought up during peer review and send their learning sheet to the trainer in order to receive their badge.
 
 Summary description of the activity.
 
