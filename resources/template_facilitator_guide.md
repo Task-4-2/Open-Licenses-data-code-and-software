@@ -19,10 +19,11 @@ The training concept is facilitated, discussion led, either online or physical. 
 
 ## Lesson plan
 
-| Date/Time | Topic             | Key Messages     | Prompts    | Resources    |
+| Time | Topic             | Key Messages     | Prompts    | Resources    |
 |-----------|-------------------| -----------------|------------|--------------|
 | 00:00-00:10| Introduction & Housekeeping  |Introduce trainers, learning objectives, code of content, present schedule, learning activities (including peer review concept) and certification and expectations for the session |    |Slide 1 - 4    |
-| 00:10-00:20  | Ice-breaking  | 
+| 00:10-00:20  | Ice-breaking  | Trainers get to know each other and find a course partner    | Breakout room discussions of 5 persons
+   |Slide 5    |
 | 00:20-00:30  | Why you shouldn't license research data      | 
 | 00:30-00:40  | [Learning Activity](https://github.com/Task-4-2/Open-Licenses-data-code-and-software/blob/main/resources/Learning%20Unit/Activities/activity_details_template.md)   | 
 | 00:40-00:45 | Break      | 
