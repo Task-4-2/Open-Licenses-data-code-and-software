@@ -33,6 +33,7 @@ The training concept is facilitated, discussion led, either online or physical. 
 | 105:00-115:00 | Summing up the workshop and homework  |  Repeat the participants obligation to conduct peer review of their course partners learning sheet. Ensure that all participants have a course partner and have exchanged contact information.                       Ensure that all participants understand that they have to send in their completed learning activity sheets within seven working days.  Ensure everyone knows where to send the completed learning sheets.   |Reflection exercise (explained below).  |Slide 54 - 56|
 | 115:00-120:00 | Wrapping up    |  Point to where the participants can learn more, show the references on the slides |  Put the link to  evaluation form in the chat   |Slide 57 - 60   |
 
+
 ## Reflection exercise
 We encourage the participants to reflect individually over the following points, for about 3 mins. The instructor can then invite a few participants to share their thoughts, but it is not the intention of the reflection exercise to hear everyones’ experiences. Rather the reflection is to encourage thought about further action the individual will take moving forward.
 
@@ -42,6 +43,7 @@ The instructor introduces the reflection points, reading them out loud from slid
 - Which good points are you taking with you? (AHA!)
 - A challenge or dilemma you need to consider? (Hmm)
 - What will you do differently  from now  on? (Go do!)
+
 
 # Instructor notes for the three topics taught in the learning unit
 
@@ -53,7 +55,8 @@ To introduce the topic of licensing, in this unit we start by asking the student
 - The choosing to apply a license is a determinant stage in the process of diffusing a research product. This choice has concrete consequences and should not be taken lightly.
 - When faced with a reluctance to use a license, it is necessary to insist that it is not a constraint but a benefit for the researcher himself and for his scientific community (protection of one’s right, more citations, more re-use).
 
-# Instructor notes
+
+# Instructor notes unit 1
 
 **Slides 2-4:** Introduction and housekeeping. These slides lay out the overview of the learning path, some ground rules, learning objectives and an overview of what the data steward can expect from this 2 hour learning path. These 10 minutes can be used to introduce trainers and helpers, share the agenda and learning objectives (as shown on the slides). Instructors can reiterate that this an intermediate learning path aimed at data stewards who may know some basics about licensing, and are keen to develop the knowledge further.
 
@@ -68,3 +71,55 @@ To introduce the topic of licensing, in this unit we start by asking the student
 **Slide 12:** The instructor concludes the unit by stating the takeaways. The instructor is free to develop these two elements according to the time remaining. 
 
 **Slide 13:** This learning activity uses two question prompts to engage participants in a discussion about how they would advocate for license use among researchers who were reluctant to use licenses. Participants can choose from the two scenarios. It is possible that there is not enough time in the learning path to discuss each breakout group or participant response in detail, in this case participants will be asked to share reflections from the learning activity after the session. 
+
+
+## Unit 2: What to consider before applying licenses to research outputs
+This unit addresses challenges for data stewards and researchers when sharing and licensing research outputs. These challenges arise in connection with requirements from external stakeholders like funders and publishers, ethical or legal obligations, and in relation to intellectual property rights and commercialization. The learner is made aware of factors that can negatively impact the novelty of research outputs and make sharing and licensing research data, software and code unattractive. Finally, mitigation strategies are introduced that a data steward can employ to adhere to external requirements and obligations, while at the same time protecting researchers’ rights to their data.
+
+**Key takeaways:**
+- Before applying licenses to research outputs like data, code, or software, you have to balance many different factors like stakeholder requirements, ethical or legal obligations, regulations, policies, and rights. 
+- Mitigation strategies can help to navigate these partially contradicting requirements and maintain the ability to share and license research outputs.
+- You have to be aware of the benefits and risks of choosing one licensing pathway over another.
+
+# Instructor notes unit 2
+
+The aim of this unit is to encourage a discussion of the different requirements, policies and regulation that can influence the sharing and licensing of research outputs. The unit begins with a presentation of the research life cycle and how licences may influence a project’s dissemination strategy. Then, the unit introduces funder and journal requirements, ethical concerns, personal data and contractual obligations that research outputs may be subject to. Finally, the unit explores how licensing may raise concerns about maintaining the novelty of licensed data (software and code), commercialisation, copyright infringement, dual use and rights to assign licenses.
+Slides 17 through 36 present all the factors influencing the sharing and licensing of research outputs one by one. Each factor is presented on two slides. The first slide introduces the factor and gives a concrete example of where a researcher – or you as a data steward – may come across a given requirement (something you should comply with) or an expectation (something you can comply with). The second slide expands on the concrete example and points to potential mitigation strategies. Mitigation strategies are ways of balancing the given requirements or expectations with other potentially contradicting requirements or expectations and thereby maintain your ability to share and license research outputs. Assigning a license is a capability that you must have, and the mitigation strategies are ways to have that capability at the time of licensing.
+
+*Remember: Sharing non-licensed research outputs makes their reuse almost impossible - or will at least prevent their correct attribution and citation.*
+
+**General teaching hint for this unit:** 
+You do not have to go through all the slides one by one. Think about your audience and then choose the factors that are most relevant for them.
+
+**Slide 15:** Licensing is part of good planning practice (understood as preparation before the project). But as research changes along the way, there is a continuous need to focus on change management and what that means for the ability to license research outputs. Remember; a plan only survives the first meeting with reality.
+*Teaching hint: You can use this slide either as a talking primer for yourself (“lecturing”) or you can use it as a discussion primer to explore together with the learners where licences play a role in the research life cycle. It could be particularly interesting to discuss disciplinary and/or organisational differences and opportunities.*
+
+**Slide 16:** This slide provides an overview of all the factors influencing the decision of whether to share a research output (or not) and how to license it. The image of the balance is meant to visualise that sharing outputs and choosing an appropriate license is a balancing act, where many different factors like stakeholder requirements, ethical or legal obligations, regulations, policies, and rights have to be balanced in order to make the right decision. Sometimes these factors may pull into different directions or even plainly contradict one another, e.g. a journal requiring to publish data openly, when the data are personal. Or a funder requiring early data sharing, while the researcher would not want to risk not being able to publish novel findings in a prestigious journal.
+
+**Slide 17+18 (funders):** Funders often require that research outputs are made openly available or at least made FAIR, in order to ensure a high accessibility and an equally high reusability. The example on slide 17 is clipped from Horizon Europe’s Annotated Grant Agreement (AGA) and presents a number of requirements for open and FAIR data. These are explained in more detail in the first two bullets on slide 18. Here, it is important to note that the licensing requirements are known early on in the process (in general, already during the grant application phase). The recommended mitigation strategies are therefore that both the FAIRification and the licensing of research outputs should be negotiated between project partners early on and documented in writing, e.g. in a data management plan (DMP).
+Slide 19-20 (journals): A lot of journals have an expectation that a researcher will share research outputs like data and code under a given license. These expectations are usually documented in the journals’ data policies. You can find them by looking for “Open Data”, “FAIR data”, “Data Policy” or “Data Availability Statement” in the “Information for Authors” on the journal or publisher website. The researcher and their collaborators have to investigate this as soon as possible and then act accordingly. If a journal requires you, for instance, to publish data with a CC-BY 4.0 license, you cannot include CC-BY-SA 4.0-licensed data in your dataset.
+
+**Slide 21-22 (ethical):** Ethical concerns relate often to data sharing, not to the ability to license. Slide 22 lists a number of research subjects, whose rights have to be protected – and these are not only human participants, but also animals, plants and even entire ecosystems. You live up with the principles of ethical research conduct by assessing the potential impact of your research before you even start interacting with your research subjects and objects; by choosing only a subset (potentially de-identified) for publication and by obtaining proper informed consent that includes data sharing.
+
+**Slide 23-24 (personal data):** Personal data are difficult to manage - and even harder to share and license. This is due to data privacy regulations enforced by e.g. GDPR in Europe and related national legislation. 
+
+**Slide 25-26 (contractual):** If you collect, buy, or produce data in a confidential environment (or under a non-disclosure agreement (NDA), or if you produce code under contractual obligations, you may be restricted in the ability to share and license. The sooner you match your sharing and licensing aspirations with your contractual obligations, the sooner you can apply the mitigation strategies.
+
+**Slide 27-28 (novelty of findings):** Although more and more journals require sharing and licensing data and/or code, there is a risk in doing this too soon. Openly sharing and licensing the data and/or code for others may jeopardize the novelty of your findings, if somebody else uses the data and/or code to reach the same results before you.
+
+**Slide 29-30 (commercialization):** Researchers are obliged through their job contract with the university to report novel findings in order to explore potential commercial spinouts, patents or the like. This obligation can be given by law, but can sometimes also be required by funders. It is best practice to seek advice early on in the process, at any rate before sharing and/or licensing data and/or code, to investigate if this hinders the ability to commercialize.
+
+**Slide 31-32 (copyright/license infringement):** If you share and license something you did not create, e.g. by combining it with your own data and/or code, you may violate the copyright of others or the license of the original material. Let’s go through the three examples on slide 31: (1) Bloomberg: If you buy data from a commercial data provider, the data usually underlie quite restrictive usage rights agreements that you signed in the purchase process, e.g. you cannot redistribute and/or waiver the original rights to the data and/or code. (2) CC BY-NC-ND box: This can also be a problem, if you reuse other peoples’ publicly available work that is licensed in a specific way. A work licensed CC BY-NC-ND, for instance, cannot be reused in a commercial context (NC = non-commercial) and you are not allowed to change the work in any way (ND = no derivatives). (3) Pizza: The last example is the case of a citizen science project, where citizens are invited to participate and contribute ideas. When volunteers or citizen scientists then produce drawings of their design ideas, these have to be considered original works that are subject to copyright. Does the research project have the ability to assign a license to this work as part of the dissemination of their research? The answer is no, but this could be achieved either by written agreement, or by having the citizen scientists license their work in the first place (see Hansen et al. 2021 for details).
+
+**Slide 33-34 (dual use):** So-called “dual use” concerns the misuse of research data and/or for undesired military or civil applications. Data and code that can be (mis)used for military purposes must not be shared and/or licensed. This is a legal requirement.
+
+**Slide 35-36 (right to assign a license):** The ability for a researcher and/or data steward to waiver rights to data and/or code cannot be taken for granted. There might be restrictions or procedures (as illustrated by the Bristol example) that limits the ability, or national legislation (as illustrated by the French example) that enables the creators of data and/or code to license it without having an explicit permit. On the backdrop of the national legislation in France, research projects are free to choose whether or not to license their research data, without being obliged to do so. As a matter of best practice, however, it would still be useful to continue using re-use licenses, as they clearly inform re-users of the extent of their rights and obligations.
+Learn more about licence compatibility in Europe in Graux 2023. Learn more about national legislation at Data Europa.
+
+**Slide 37 (summing up, identical to slide ##):** This slide provides an overview of all the factors influencing the decision of whether to share a research output (or not) and how to license it. The image of the balance is meant to visualise that sharing outputs and choosing an appropriate license is a balancing act, where many different factors like stakeholder requirements, ethical or legal obligations, regulations, policies, and rights have to be balanced in order to make the right decision. Sometimes these factors may pull into different directions or even plainly contradict one another, e.g. a journal requiring to publish data openly, when the data are personal. Or a funder requiring early data sharing, while the researcher would not want to risk not being able to publish novel findings in a prestigious journal.
+
+**Slide 38 (Learning Activity):** See Learning Activity notes for instructions for this exercise
+
+
+## Unit 3: practical application of licenses to (FAIR) research output
+
