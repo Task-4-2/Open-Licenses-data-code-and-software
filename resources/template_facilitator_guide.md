@@ -26,8 +26,8 @@ The training concept is facilitated, discussion led, either online or physical. 
 | 00:20-00:30  | Why you shouldn't license research data      | Advocate for the advantages of licensing    | This topic will cover the hypotheticals which the trainees can discuss with the instructor    |Slide 6 - 10    |
 | 00:30-00:40  | Learning Activity 1 |  Scenario advising a researcher against licensing data| Discuss and argue for the benefits of licensing   |Slide 11 and [Learning Activity 1](https://github.com/Task-4-2/Open-Licenses-data-code-and-software/blob/main/resources/Learning%20Unit/Activities/activity_details_template.md)     |
 | 00:40-00:45 | Break      | 
-| 00:45-65:00 | What to consider before applying licenses to research output  | 
-| 65:00-75:00  | [Learning Activity](https://github.com/Task-4-2/Open-Licenses-data-code-and-software/blob/main/resources/Learning%20Unit/Activities/activity_details_template.md)    | 
+| 00:45-65:00 | What to consider before applying licenses to research output  | Challenges for data stewards and researchers when sharing and licensing research outputs     | Encourage discussion of disciplinary and/or organisational differences    |Slide 12 - 35 and digital white board or post-its to capture discussion |
+| 65:00-75:00  |Research is often influenced by many different stakeholders, so it is tricky to choose the right license | Assessing a test case: How can you share and license the research outputs?   | Think for yourself and write down your considerations in the learning activity sheet (3 minutes). Then collect the answers in plenum (7 minutes)  |Slide 35 and [Learning Activity](https://github.com/Task-4-2/Open-Licenses-data-code-and-software/blob/main/resources/Learning%20Unit/Activities/activity_details_template.md)     |
 | 75:00-95:00  | How to apply licenses to research output   |
 | 95:00-105:00  | [Learning Activity](https://github.com/Task-4-2/Open-Licenses-data-code-and-software/blob/main/resources/Learning%20Unit/Activities/activity_details_template.md)   |
 | 105:00-115:00 | Summing up the workshop and homework  |
