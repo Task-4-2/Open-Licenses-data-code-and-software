@@ -1,5 +1,5 @@
 ---
-title: "Training Facilitator Guide"
+title: "Training Facilitator Guide: Open Licences for Data, Code and Software"
 author: "Skills4EOSC T2.3"
 tags: 
     - FAIR-by-Design Learning Materials
