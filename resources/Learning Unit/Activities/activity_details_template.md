@@ -18,7 +18,7 @@ Summary description of the activity.
 - During the workshop, the participants have 10 minutes to work with each activity
 
 ## Number of people that it can be performed with
--minimum 2 persons
+- Minimum 2 persons
 
 ## Goal of activity
 
