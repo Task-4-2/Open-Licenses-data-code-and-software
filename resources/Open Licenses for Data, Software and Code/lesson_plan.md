@@ -89,4 +89,4 @@ The instructor introduces the reflection points presented on a slide at the end 
 
 
 ### Comments
-- any additional comments from external parties acting as co-creators
+There are not comments from external contributers at the present time 
