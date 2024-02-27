@@ -1,10 +1,10 @@
 ---
-title: "Training Activity Setup"
-author:  "Skills4EOSC T2.3"
+title: "Activities"
+author:  "Skills4EOSC T4.2"
 tags: 
-    - FAIR-by-Design Learning Materials
-    - FAIR Learning Objects
-    - Training Activity Template
+    - Licenses
+    - Research Output
+    - Activities
 ---
 
 # Learning Activity Sheet
