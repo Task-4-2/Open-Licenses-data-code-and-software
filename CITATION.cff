@@ -50,6 +50,5 @@ license: CC-BY-4.0
 license-url: "https://creativecommons.org/licenses/by/4.0/legalcode.txt"
 keywords:
  - "licenses"
- - "thesecondkeyword"
- - "a third keyword"
-repository: "https://github.com/citation-file-format/my-research-software"
+ - "research output"
+repository: "https://github.com/Task-4-2/Open-Licenses-data-code-and-software"
