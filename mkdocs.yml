@@ -14,19 +14,21 @@ plugins:
       version_selector: true
   - exclude:
       glob:
-        - "*Activities/*"
-        - "*Assessment/*"
+#        - "*Activities/*"
+#        - "*Assessment/*"
         - "*Templates/*"
-        - "*Feedback/*"
+#        - "*Feedback/*"
         - "*.tmp"
         - "*.pdf"
         - "*.gz"
-        - "*.pptx"
+#        - "*.pptx"
         - "*_plan.md"
-        - "*_facilitator_guide.md"
+#        - "*_facilitator_guide.md"
         - "*syllabus.md"
       regex:
         - '.*\.(tmp|bin|tar)$'
+markdown_extensions:
+  - attr_list
 extra:
   version:
     provider: mike
