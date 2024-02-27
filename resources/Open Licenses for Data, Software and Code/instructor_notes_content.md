@@ -134,12 +134,9 @@ The unit starts with a global introduction with an overview of different license
 - Step 3 (after awarding a license): the work is not over quite yet, some things need to be checked once the license is awarded : the trainer briefly addresses the importance of human and machine readability and licensing metadata.
 
 **Key takeaways:**
-
-- The research product are not equal in legal terms and require specific licenses to be used. There are many different licenses available, each one having its own characteristics. For each project, you need to identify the nature of the product to be opened, according to which specific licenses are applicable
-- There are some free online tools that can guide you towards finding the perfect license considering your own needs and conditions.
-- Even when you have found the license that perfectly match your needs, your work is not over just yet. You still have to check its readability :
-  - for humans : how your choice of license is expressed when landing on your research output page;
-  - for machines : for interoperability.
+- Before applying licenses to research outputs like data, code or software, you have to balance many different factors like stakeholder requirements, ethical or legal obligations, regulations, policies and rights.
+- Mitigation strategies can help to navigate these partially contradicting requirements and maintain the ability to share and license research outputs.
+- You have to be aware of the benefits and risks of choosing one licensing pathway over another.
 
 #### Instructor notes unit 3
 
@@ -222,17 +219,32 @@ This  slide points out the importance of the license machine readability. It  ca
 This  slide reads like the previous one : you can explain it briefly. The  idea is to show that metadata can have their own separated license and  to explain why they should be as open as possible since they can be  reused on their own. 
 
 **Slide 51: Takeaways**
-The trainer focuses on three main points presented on the slide, that have beed the red thread throughout the unit. Use time to answer potential questions.
+- The trainer focuses on three main points presented on the slide, that have beed the red thread throughout the unit. Use time to answer potential questions.
+- Research products are not equal in legal terms and require specific licenses. There are many different licenses available, each one having its own characteristics. Your choise of license partly depends on the nature of your research output. You need to identify the rights that apply to the different research outputs before awarding a license.
+- There are free online tools that can guide you towards finding the perfect license, considering your own needs and conditions.
+- Even when you have found the license that perfectly matches your needs, you work is not over yet. You still have to check its readability
+-- for humans: how your choice of license is expressed when landing on your research output page
+-- for machines: for interoperability
 
 **Slide 52 (Learning Activity):** See Learning Activity notes for instructions for this exercise
 
 
 ## Summary
+- Applying a licence is of crucial importance for disseminating a research product. 
+- The choosing to apply a license is a determinant stage in the process of diffusing a research product. This choice has concrete consequences and should not be taken lightly.
+- When faced with a reluctance to use a license, it is necessary to insist that it is not a constraint but a benefit for the researcher himself and for his scientific community (protection of one’s right, more citations, more re-use).
+- Before applying licenses to research outputs like data, code or software, you have to balance many different factors like stakeholder requirements, ethical or legal obligations, regulations, policies and rights.
+- Mitigation strategies can help to navigate these partially contradicting requirements and maintain the ability to share and license research outputs.
+- You have to be aware of the benefits and risks of choosing one licensing pathway over another.
+- - The trainer focuses on three main points presented on the slide, that have beed the red thread throughout the unit. Use time to answer potential questions.
+- Research products are not equal in legal terms and require specific licenses. There are many different licenses available, each one having its own characteristics. Your choise of license partly depends on the nature of your research output. You need to identify the rights that apply to the different research outputs before awarding a license.
+- There are free online tools that can guide you towards finding the perfect license, considering your own needs and conditions.
+- Even when you have found the license that perfectly matches your needs, you work is not over yet. You still have to check its readability
+-- for humans: how your choice of license is expressed when landing on your research output page
+-- for machines: for interoperability
 
-At the end provide a short summary of the main points of the learning unit (these are the key takeaways that help reflect on the learning outcomes)
 
 ## Suggested Reading
 
-- provide a list of references for further reading that should help clarify the content of the learning unit and elevate the knowledge level
-- [Markdown guide](https://www.markdownguide.org/), free and open-source reference guide that explains how to use Markdown.
+Please refer to the slides for a full list of references and links to tools presented during the training
 
