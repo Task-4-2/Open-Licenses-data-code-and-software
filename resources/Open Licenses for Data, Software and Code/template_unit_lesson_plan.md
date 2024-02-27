@@ -1,13 +1,13 @@
 ---
-title: "FAIR Learning Unit Lesson Plan Template"
-author: "Skills4EOSC T2.3"
+title: "Open Licenses for Data, Software and Code Lesson Plan"
+author: "Skills4EOSC T4.2"
 tags: 
-    - FAIR-by-Design Learning Materials
-    - FAIR Learning Objects
-    - FAIR Learning Unit Lesson Plan Template
+    - Licenses
+    - Research Output
+    - Lesson Plan
 ---
 
-# Unit Lesson Plan Template
+# Unit Lesson Plan
 
 ## Open Licenses for Data, Code and Software
 
@@ -16,12 +16,15 @@ This 2-hour long unit provides trainers with the core skills and knowledge to te
 Licensing is a complex topic, hence we present a very thorough slide deck covering many aspects of licensing. As this learning path thus has a wealth of slides, and  the instructor should choose which slides best suit a given occasion.  We leave this slimming down of the content at the discretion of the instructor, and the context and target group in which they are teaching.
 
 **Summary and Learning Outcomes**
+
 The unit is a facilitated training event with a reflective assignment which is completed within 7 days of the training event. Feedback to the reflective assignment is conducted through peer-to-peer feedback. The learner is required to conduct peer review on another learner’s responses to learning activities introduced during the training event. As such, the unit supports continuous and deep learning regarding the following key takeaways:
+
 - The unit addresses different types of licenses that can be applied to FAIR research outputs in accordance with regulations, policies and other legal requirements and further problematizes the application of licences, requiring the learner to consider ethical concerns and risks there can be for the owner of the data (software and code) when contractually obliged or required by policy to share their data (software and code).
 - The unit provides ideas for mitigation strategies and arguments data professionals may consider when applying licenses
 - The unit provides a practical approach to how to apply (multiple) licenses appropriately during the development and publication of a research output
 
 **Learning Outcomes**
+
 - Data professionals who have completed the learning path will be able to engage in and motivate the research process to accommodate more available and licensed data.
 - Data professionals who have completed the learning path can demonstrate how licenses can restrict or open up access to research output
 - Data professionals who have completed this learning path can problematise the application of licenses and thus consider with the relevant stakeholder ethical and legal concerns as well as hesitations regarding licensing research output.
@@ -37,7 +40,9 @@ The unit is a facilitated training event with a reflective assignment which is c
 - The training builds on discussing and sharing experiences/knowledge. Minimum 6 persons. 
 
 ### Learning objectives
+
 After completing this unit you will be able to:
+
 - Identify if licenses can be applied, and know mitigation strategies to apply the licenses anyhow.
 - Explain the different types of licenses that can be applied to FAIR research outputs in accordance with regulations, policies and other legal requirements. 
 - Apply (multiple) licenses appropriately during the development and publication of a research output
@@ -63,14 +68,17 @@ After completing this unit you will be able to:
 
 
 ### Assessment
+
 - Formative, through 3 learning activities. The students review each others answers to the learning activities. Within 7 working days of the training event, each learner updates their answers to the learning activities according and submit their answers to the training administrator.
 
 
 ### Certificate or Badge
+
 - Badge on reception of the revised learning activities
 
 
 ### Reflection
+
 We encourage the participants to reflect individually over the following points, for about 3 mins. The instructor can then invite a few participants to share their thoughts, but it is not the intention of the reflection to hear everyones’ experiences. Rather the reflection is to encourage thought and action.
 
 The instructor introduces the reflection points presented on a slide at the end of the training session: 
