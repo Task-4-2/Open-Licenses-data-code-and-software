@@ -1,54 +1,54 @@
 cff-version: 1.2.0
 message: "If you use these learning materials, please cite it as below."
 authors:
-  - family-names: "Wildgaard"
-    given-names: "Lorna"
-    orcid: "https://orcid.org/0000-0002-3900-5058"
-    affiliation: "Royal Library, Denmark"
-  - family-names: "Peters"
-    given-names: "Ekaterina"
-    orcid: "https://orcid.org/0000-0002-2966-202X"
-    affiliation: "Karlsruhe Institute of Technology, Germany"
-  - family-names: "Derksen"
-    given-names: "Benjamin"
-    orcid: "https://orcid.org/0000-0001-9144-7518"
-    affiliation: "Royal Library, Denmark"
-  - family-names: "Hansen"
-    given-names: "Karsten_Kryger"
-    orcid: "https://orcid.org/0000-0002-2407-8764"
-    affiliation: "Aalborg University, Denmark"
-  - family-names: "Hadrossek"
-    given-names: "Christine"
-    orcid: "https://orcid.org/0000-0002-2638-6373"
-    affiliation: "CNRS Délégation Paris"
-  - family-names: "Janik"
-    given-names: "Joanna"
-    orcid: "https://orcid.org/0000-0001-7587-2995"
-    affiliation: "CNRS Délégation Paris"
-  - family-names: "Antoine"
-    given-names: "Diane"
-    orcid: "https://orcid.org/0009-0007-0228-7980"
-    affiliation: "Université de Lorraine"
-  - family-names: "Bernier"
-    given-names: "Mathilde"
-    orcid: "https://orcid.org/0009-0000-5770-3047"
-    affiliation: "CNRS Délégation Paris"
-  - family-names: "Sharma"
-    given-names: "Saba"
-    orcid: "https://orcid.org/0000-0002-8695-5902"
-    affiliation: "write here"
-  - family-names: "van Leersum"
-    given-names: "Nida"
-    orcid: "https://orcid.org/0009-0001-8479-122X"
-    affiliation: "TU-DELFT"
-title: "Open Licenses for Data, Software and Code"
+  - family-names: Wildgaard
+    given-names: Lorna
+    orcid: https://orcid.org/0000-0002-3900-5058
+    affiliation: Royal Library, Denmark
+  - family-names: Peters
+    given-names: Ekaterina
+    orcid: https://orcid.org/0000-0002-2966-202X
+    affiliation: Karlsruhe Institute of Technology, Germany
+  - family-names: Derksen
+    given-names: Benjamin
+    orcid: https://orcid.org/0000-0001-9144-7518
+    affiliation: Royal Library, Denmark
+  - family-names: Hansen
+    given-names: Karsten_Kryger
+    orcid: https://orcid.org/0000-0002-2407-8764
+    affiliation: Aalborg University, Denmark
+  - family-names: Hadrossek
+    given-names: Christine
+    orcid: https://orcid.org/0000-0002-2638-6373
+    affiliation: CNRS Délégation Paris
+  - family-names: Janik
+    given-names: Joanna
+    orcid: https://orcid.org/0000-0001-7587-2995
+    affiliation: CNRS Délégation Paris
+  - family-names: Antoine
+    given-names: Diane
+    orcid: https://orcid.org/0009-0007-0228-7980
+    affiliation: Université de Lorraine
+  - family-names: Bernier
+    given-names: Mathilde
+    orcid: https://orcid.org/0009-0000-5770-3047
+    affiliation: CNRS Délégation Paris
+  - family-names: Sharma
+    given-names: Saba
+    orcid: https://orcid.org/0000-0002-8695-5902
+    affiliation: write here
+  - family-names: van Leersum
+    given-names: Nida
+    orcid: https://orcid.org/0009-0001-8479-122X
+    affiliation: TU-DELFT
+title: 'Open Licenses for Data, Software and Code'
 abstract: "This 2-hour long unit provides trainers with the core skills and knowledge to teach the nuances of licensing research outputs. After completing the unit, the trainer will be able to reflect on how to tailor the content to their local environment, and have more knowledge about when to apply licenses throughout a project, while complying with funders, institutional requirements and the research discipline/aims of the project."
 version: 1.0.0
 doi: 10.5070/zenodo.123
-date-released: "2023-01-18"
+date-released: '2023-01-18'
 license: CC-BY-4.0
-license-url: "https://creativecommons.org/licenses/by/4.0/legalcode.txt"
+license-url: https://creativecommons.org/licenses/by/4.0/legalcode.txt
 keywords:
- - "licenses"
- - "research output"
-repository: "https://github.com/Task-4-2/Open-Licenses-data-code-and-software"
+ - licenses
+ - research output
+repository: https://github.com/Task-4-2/Open-Licenses-data-code-and-software
