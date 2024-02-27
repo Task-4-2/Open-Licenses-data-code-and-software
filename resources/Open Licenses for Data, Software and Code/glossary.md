@@ -1,0 +1,42 @@
+---
+title: "Glossary"
+author: "Skills4EOSC T4.2"
+tags: 
+    - Licensing
+    - Research Output
+    - Glossary
+---
+
+# Glossary
+
+| **Term** | **Definition** | **Source** |
+|---|---|---|
+| **A license** | is a legal document that grants specific rights to user to reuse and redistribute a material under specific conditions. Any right that is not granted by default by the licensor through the license can be requested. Licenses can be applied to any material (e.g., audio, text, image, multimedia, software) where some exploitation or usage rights exist.it is also a good idea to ensure the rights statement is clearly displayed on pages from which the data may be downloaded. | [Open Science Training Handbook](https://open-science-training-handbook.github.io/Open-Science-Training-Handbook_EN/02OpenScienceBasics/06OpenLicensingAndFileFormats.html) |
+| **Attribution** | A legal obligation to credit the source of a dataset. The manner and extent to which the source has to be credited is determined by the licence. | [Licence Compatibility in Europe: A winding road to Creative Commons](https://data.europa.eu/sites/default/files/course/Licence%20compatibility%20in%20Europe%20a%20winding%20road%20to%20Creative%20Commons_EN.pdf) |
+| **Data set** | A single logical group of data with a common structure, metadata and scope, made available as a downloadable file or via specific application programming interfaces. | [Licence Compatibility in Europe: A winding road to Creative Commons](https://data.europa.eu/sites/default/files/course/Licence%20compatibility%20in%20Europe%20a%20winding%20road%20to%20Creative%20Commons_EN.pdf) |
+| **Derivate Work** | The action of making a dataset available to third parties. Using a dataset for your own internal purposes (without making it available to third parties) thus does not imply any distribution. | [Licence Compatibility in Europe: A winding road to Creative Commons](https://data.europa.eu/sites/default/files/course/Licence%20compatibility%20in%20Europe%20a%20winding%20road%20to%20Creative%20Commons_EN.pdf) |
+| **Free content licenses** | are licenses that grant permission to access, re-use, and redistribute material with few or no restrictions. Those licenses range from very open to more restrictive. The more restrictions a license stipulates, the more difficult it becomes to combine differently licenses content—thus potentially preventing both reusability and interoperability. | [Open Science Training Handbook](https://open-science-training-handbook.github.io/Open-Science-Training-Handbook_EN/02OpenScienceBasics/06OpenLicensingAndFileFormats.html) |
+| **Free Software** | A program is free software if the program’s users have the four essential freedoms: 
+
+- The freedom to run the program as you wish, for any purpose (freedom 0)
+- The freedom to study how the program works, and change it so it does your computing as you wish. Access to the source code is a precondition for this (Freedom 1)
+- The freedom to redistribute copies so you can help your neighbor (freedom 2)
+- The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
+ | [GNU Operating System, What is Free Software?](https://www.gnu.org/philosophy/free-sw.en.html) |
+| **Licence compatibility** | The legal possibility to lawfully create a derivative work based on at least two datasets, in a manner that does not violate the licence under which those datasets were made available. | [Licence Compatibility in Europe: A winding road to Creative Commons](https://data.europa.eu/sites/default/files/course/Licence%20compatibility%20in%20Europe%20a%20winding%20road%20to%20Creative%20Commons_EN.pdf) |
+| **Open Source definition** | Open source doesn’t just mean access to the source code. The distribution terms of open-source software must comply with the following criteria : (see the whole definition )
+
+1. Free Redistribution
+    - The license shall not restrict any party from selling or giving away the software as a component of an aggregate software distribution containing programs from several different sources. The license shall not require a royalty or other fee for such sale.
+2. Source Code
+3. Derived Works
+4. Integrity of The Author’s Source Code
+5. No Discrimination Against Persons or Groups
+6. No Discrimination Against Fields of Endeavor
+7. Distribution of License
+8. License Must Not Be Specific to a Product
+9. License Must Not Restrict Other Software
+10. License Must Be Technology-Neutral
+ | [Open Source Initiative, The Open Source Definition](https://opensource.org/osd/) |
+| **Permissive Licence** | A licence that grants the right to access, reuse and redistribbute a dataset, free of charge, without any limitation on use cases (commercial or non commercial), and without limitation on the potential beneficiaries of the licence. Attribution may be included under a permissive licence. | [Licence Compatibility in Europe: A winding road to Creative Commons](https://data.europa.eu/sites/default/files/course/Licence%20compatibility%20in%20Europe%20a%20winding%20road%20to%20Creative%20Commons_EN.pdf) |
+| **Share-alike** | A legal obligation to apply the same licence terms to a derivative work as were applied to the dataset(s) on which the derivate work was based. The licence to be used for the derivative work is determined by the licence. | [Licence Compatibility in Europe: A winding road to Creative Commons](https://data.europa.eu/sites/default/files/course/Licence%20compatibility%20in%20Europe%20a%20winding%20road%20to%20Creative%20Commons_EN.pdf) |
