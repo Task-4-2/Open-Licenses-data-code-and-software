@@ -41,6 +41,10 @@ It is expected that the learner has taken an introduction to research data manag
 
 ### Learning Tools: None
 
+## Slides
+
+The slides can be downloaded [here](./Licensing%20Data%20(Software%20and%20Code).pptx){:download}.
+
 ## Instructor notes for the three topics taught in the learning unit
 
 ### Unit 1: Why you shouldn’t license your research output
