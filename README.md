@@ -1,32 +1,21 @@
 ![](./resources/attachments/header.png)
 
-# FAIR-by-Design Methodology - Templates Repository
+# Open Licenses Data Code and Software Repository
 
-This repository hosts all templates necessary for the development of FAIR-by-Design learning materials for the requirements of the Skills4EOSC project.
-Use these templates together with 
+This repository hosts all learning materials related to the Open Licenses Data Code and Software developed by T4.2 the Skills4EOSC project.
 
-- the [FAIR-by-Design Methodology for Learning Materials Development](https://fair-by-design-methodology.github.io/FAIR-by-Design_Book/).
-- the [FAIR-by-Design Methodology Training of Trainers Learning materials](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/)
-
-All content is available under CC0 [license](./LICENSE).
+All content is available under CC-BY-4.0 [license](./LICENSE).
 
 
-## Want to learn how to implement the FAIR-by-Design Methodology?
+## How to use these learning materials?
 
-If you are interested in following the training as a learner:
+If you want to reuse these learning materials simply download or clone this repository for your own purposes and provide attribution according to the [citation file](./CITATION.cff).
 
-- take a look at the [FAIR-by-Design Methodology learning content GitBook](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/) - based on the content of this repo
-- enroll in the corresponding [FAIR-by-Design Methodology course on the Skills4EOSC learning platform](https://learning.skills4eosc.eu/course/view.php?id=19) and try to get the FAIR Instructor badge.
+## How to co-create with us?
 
-
-## How to use these templates?
-
-If you want to start developing FAIR-by-Design learning materials based on these templates simply clone this repository.
+You can add your comments and suggestions directly in the developed learning materials. Any contribution is welcome as long as you are abiding by the [code of conduct](./CODE_OF_CONDUCT.md).
 
 ---
 
-May your learning materials always be FAIR!
-
-
-The Skills4EOSC FAIR-by-Design Methodology Team
+The Skills4EOSC T4.2 Team
 
