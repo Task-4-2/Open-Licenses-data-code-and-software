@@ -1,20 +1,28 @@
 ---
 # RDA learning materials metadata minimal set
-title: "Open Licenses for data, code and software."
+title: "Open Licenses for data, code and software"
 author: "Diane Antoine, Mathilde Bernier , Mareike Buus, Benjamin Derksen, Christine Hadrossek, Karsten Kryger Hansen, Joanna Janik, Nida van Leersum, Carolin Leister, Fabian Schuboe, Saba Sharma, Lorna Wildgaard"
 tags: 
-    - Learning materials, training, data stewardship, licensing research output, FAIRdata, requirements
+    - Learning materials
+    - Training
+    - Data stewardship
+    - Licensing research output
+    - FAIR data
+    - Requirements
     - Facilitated webinar
 
 abstract: "This 2-hour long unit provides trainers with the core skills and knowledge to teach the nuances of licensing research outputs. After completing the unit, the trainer will be able to reflect on how to tailor the content to their local environment, and have more knowledge about when to apply licenses throughout a project, while complying with funders, institutional requirements and the research discipline/aims of the project."
 primaryLanguage: "en"
-license: "(https://creativecommons.org/licenses/by/4.0/deed.en)"
+license: "https://creativecommons.org/licenses/by/4.0/"
 versionDate: "2024-02-22"
 urlToResource: "to be completed"
 resourceURLType: "URL"
 targetGroup: "Data stewards, Data professionals"
 learningResourceType: "Learning Path, Project Milestone"
-learningOutcome: "Data professionals who have completed the learning path will be able to engage in and motivate the research process to accommodate more available and licensed data, Data professionals who have completed the learning path can demonstrate how licenses can restrict or open up access to research output, Data professionals who have completed this learning path can problematise the application of licenses and thus consider with the relevant stakeholder ethical and legal concerns as well as hesitations regarding licensing research output."
+learningOutcome: 
+    - Data professionals who have completed the learning path will be able to engage in and motivate the research process to accommodate more available and licensed data
+    - Data professionals who have completed the learning path can demonstrate how licenses can restrict or open up access to research output
+    - Data professionals who have completed this learning path can problematise the application of licenses and thus consider with the relevant stakeholder ethical and legal concerns as well as hesitations regarding licensing research output
 accessCost: "N"
 expertiseLevel: "Intermediate"
 ---
@@ -23,7 +31,7 @@ expertiseLevel: "Intermediate"
 
 # Open Licenses for data, code and software
 
-# Type (Webinar)
+# Learning Path, Project Milestone
 
 ## Date/Time: to be completed
 
@@ -38,10 +46,16 @@ expertiseLevel: "Intermediate"
 ## Training Description
 
 This 2-hour long unit provides trainers with the core skills and knowledge to teach the nuances of licensing research outputs. After completing the unit, the trainer will be able to reflect on how to tailor the content to their local environment, and have more knowledge about how and when to apply licenses throughout a project, while complying with funders, institutional requirements and the research discipline/aims of the project.
+
 Licensing is a complex topic, hence we present a very thorough slide deck covering many aspects of licensing. As this learning path thus has a wealth of slides, and  the instructor should choose which slides best suit a given occasion.  We leave this slimming down of the content at the discretion of the instructor, and the context and target group in which they are teaching.
 
 
-## Target audience: Data Stewards, Data Professionals. The ´learning path was originally created as the pilot Train the Trainer, for data stewards as part of the Skills4EOSC projekt
+## Target audience: 
+
+- Data Stewards
+- Data Professionals
+
+The ´learning path was originally created as the pilot Train the Trainer, for data stewards as part of the Skills4EOSC projekt
 
 
 ## Expertise Level / Skill Level: Intermediate
@@ -53,6 +67,7 @@ Licensing is a complex topic, hence we present a very thorough slide deck coveri
 ## Prerequisites
 
 This unit is the second unit in a learning path about licenses. The learning path consists of three modules in total. There is a progression between modules. To get the full benefit of this unit, unit 2, it is expected that the learner has taken an introduction to research data management and has the following basic understanding of licenses:
+
 - The learner has a basic knowledge of what Creative Common Licenses are
 - The learner has a basic knowledge of the common terms used in licensing, such as “attribution”, “copyleft” and “non-commercial”
 - The learner has a basic understanding of the difference between a waiver and a license
@@ -67,9 +82,10 @@ This unit is the second unit in a learning path about licenses. The learning pat
 ## Training objectives
 
 After completing this unit you will be able to:
-- Explain the different types of licenses that can be applied to FAIR research outputs in accordance with regulations, policies and other legal requirements.
+
+- Explain the different types of licenses that can be applied to FAIR research outputs in accordance with regulations, policies and other legal requirements
 - Apply (multiple) licenses appropriately during the development and publication of a research output
-- Argue for the choice of one or more appropriate licenses to research output and identify the importance of creating machine-readable rights statements.
+- Argue for the choice of one or more appropriate licenses to research output and identify the importance of creating machine-readable rights statements
 - Engage in the research process and influence the research process to accommodate for more available and licensed data 
 
 
@@ -128,7 +144,7 @@ Learning materials, training, data stewardship, licensing research output, FAIRd
 
 ## DOI
 
-[https://doi.org/10.5072/zenodo.1234567](https://doi.org/10.5072/zenodo.1234567) TO BE UPDATED
+[https://doi.org/10.5072/zenodo.1234567](https://doi.org/10.5072/zenodo.1234567)
 
 ## Accessibility Mission
 
