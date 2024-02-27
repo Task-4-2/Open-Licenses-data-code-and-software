@@ -22,6 +22,8 @@ Summary description of the activity.
 
 ## Goal of activity
 
+Put licensing research output into practice.
+
 ## Materials
 - The participants need an editable copy of the [Learning Activity Sheet](https://github.com/Task-4-2/Open-Licenses-data-code-and-software/blob/main/Learning%20activities_OpenLicences%20(Data%2C%20Code%2C%20Software).docx){:download}
 - Clear instruction of who to send the completed learning activity sheet to.
