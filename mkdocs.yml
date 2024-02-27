@@ -1,4 +1,4 @@
-site_name: FAIR-by-Design Template Repository
+site_name: Open Licenses for data, code and software
 docs_dir: resources
 theme:
   name: material
