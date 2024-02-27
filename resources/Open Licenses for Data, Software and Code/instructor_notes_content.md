@@ -223,8 +223,8 @@ This  slide reads like the previous one : you can explain it briefly. The  idea 
 - Research products are not equal in legal terms and require specific licenses. There are many different licenses available, each one having its own characteristics. Your choise of license partly depends on the nature of your research output. You need to identify the rights that apply to the different research outputs before awarding a license.
 - There are free online tools that can guide you towards finding the perfect license, considering your own needs and conditions.
 - Even when you have found the license that perfectly matches your needs, you work is not over yet. You still have to check its readability
--- for humans: how your choice of license is expressed when landing on your research output page
--- for machines: for interoperability
+-  for humans: how your choice of license is expressed when landing on your research output page
+-  or machines: for interoperability
 
 **Slide 52 (Learning Activity):** See Learning Activity notes for instructions for this exercise
 
@@ -239,9 +239,9 @@ This  slide reads like the previous one : you can explain it briefly. The  idea 
 - - The trainer focuses on three main points presented on the slide, that have beed the red thread throughout the unit. Use time to answer potential questions.
 - Research products are not equal in legal terms and require specific licenses. There are many different licenses available, each one having its own characteristics. Your choise of license partly depends on the nature of your research output. You need to identify the rights that apply to the different research outputs before awarding a license.
 - There are free online tools that can guide you towards finding the perfect license, considering your own needs and conditions.
-- Even when you have found the license that perfectly matches your needs, you work is not over yet. You still have to check its readability
--- for humans: how your choice of license is expressed when landing on your research output page
--- for machines: for interoperability
+- Even when you have found the license that perfectly matches your needs, you work is not over yet. You still have to check its readability.
+-  for humans: how your choice of license is expressed when landing on your research output page
+-  or machines: for interoperability
 
 
 ## Suggested Reading
