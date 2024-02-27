@@ -15,7 +15,7 @@ The assessment is formative, through 3 learning activities. The students review 
 
 ## Questions
 
-[Provided within the learning activities description.](../Activities/activity_details_template.md)
+[Provided within the learning activities description.](../Activities/activity_details.md)
 
 ## Assessment
 
