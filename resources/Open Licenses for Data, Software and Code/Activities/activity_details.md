@@ -7,7 +7,7 @@ tags:
     - Activities
 ---
 
-# Learning Activity Sheet
+# Learning Activities
 This document presents the three learning activities that are introduced during the training session. Each learning activity is introduced on the background of topics raised during the prior powerpoint guided presentation and discussions. 
 
 Each participant is given a copy of this Learning Acitivity Sheet in an editable format. During the training, the participant notes down their thoughts and immediate reflections. After the training, the participants have seven days to complete the learning activities, conduct peer review of their course partner's learning activity sheet, conduct any revisions brought up during peer review and send their learning sheet to the trainer in order to receive their badge.
@@ -44,8 +44,10 @@ We do not grade your answers to the learning activities.
 
 ## Learning activity 1: 
 Answer one of the two questions below
+
 1.	What advice would you give to a researcher who doesn’t want to license their data?
 2.	How might licensing research data be advantageous/disadvantageous to a researcher?
+
 Prepare 2 - 3 arguments in which you would advocate the use of licenses on research data. 
 
 ## Learning activity 2: Sharing and licensing mixed data
@@ -55,7 +57,17 @@ The data comprises 50 transcribed interviews, anonymised survey responses from t
 The PI wants your advice on how to share and license the data from the project.
 
 **Tips consider the following**
-*Funder requirements, Journal requirements, Ethical concerns, Personal data, Contractual obligations, Reduced novelty of findings, Ability to commercialize, Copyright infringement, Dual use, Right to assign a license*
+
+- Funder requirements
+- Journal requirements
+- Ethical concerns
+- Personal data
+- Contractual obligations
+- Reduced novelty of findings
+- Ability to commercialize
+- Copyright infringement
+- Dual use
+- Right to assign a license
 
 What would your advice be?
 
