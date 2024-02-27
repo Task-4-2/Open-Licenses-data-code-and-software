@@ -21,6 +21,11 @@ Licensing is a complex topic, **hence we present a very thorough slide deck cove
 
 The training concept is facilitated, discussion led, either online or physical. The material is designed for participants with a basic knowledge of licensing but have the need to discuss with peers and reflect over licensing issues. Accordingly, the trainer needs the ability to be a facilitator and engage participants in discussions. It is not expected the trainer has all the answers and we strongly recommend a "maker approach" to training, where knowledge and learning are created together.
 
+## Resources
+
+- printed handouts (and writing materials)
+- projection equipment for the slides
+
 
 ## Before the training
 - [ ] Get the latest version of the training materials
