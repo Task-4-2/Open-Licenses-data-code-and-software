@@ -25,7 +25,7 @@ Summary description of the activity.
 Put licensing research output into practice.
 
 ## Materials
-- The participants need an editable copy of the [Learning Activity Sheet](https://github.com/Task-4-2/Open-Licenses-data-code-and-software/blob/main/Learning%20activities_OpenLicences%20(Data%2C%20Code%2C%20Software).docx){:download}
+- The participants need an editable copy of the [Learning Activity Sheet](https://github.com/Task-4-2/Open-Licenses-data-code-and-software/raw/main/resources/Open%20Licenses%20for%20Data,%20Software%20and%20Code/Activities/Learning%20activities_OpenLicences%20(Data,%20Code,%20Software).docx){:download}
 - Clear instruction of who to send the completed learning activity sheet to.
 
 ## Instructions
@@ -76,5 +76,5 @@ Do you work with data or software research outputs? Go to [choosealicense.com](h
 
 
 ## Related sources
-- [Learning Activity Sheet](https://github.com/Task-4-2/Open-Licenses-data-code-and-software/blob/main/Learning%20activities_OpenLicences%20(Data%2C%20Code%2C%20Software).docx){:download}
+- [Learning Activity Sheet](https://github.com/Task-4-2/Open-Licenses-data-code-and-software/raw/main/resources/Open%20Licenses%20for%20Data,%20Software%20and%20Code/Activities/Learning%20activities_OpenLicences%20(Data,%20Code,%20Software).docx){:download}
 
