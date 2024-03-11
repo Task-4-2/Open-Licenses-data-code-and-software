@@ -1,30 +1,34 @@
 ---
-# RDA learning materials metadata minimal set
-title: "Open Licenses for data, code and software"
-author: "Diane Antoine, Mathilde Bernier , Mareike Buus, Benjamin Derksen, Christine Hadrossek, Karsten Kryger Hansen, Joanna Janik, Nida van Leersum, Carolin Leister, Fabian Schuboe, Saba Sharma, Lorna Wildgaard"
-tags: 
-    - Learning materials
-    - Training
-    - Data stewardship
-    - Licensing research output
-    - FAIR data
-    - Requirements
-    - Facilitated webinar
-
-abstract: "This 2-hour long unit provides trainers with the core skills and knowledge to teach the nuances of licensing research outputs. After completing the unit, the trainer will be able to reflect on how to tailor the content to their local environment, and have more knowledge about when to apply licenses throughout a project, while complying with funders, institutional requirements and the research discipline/aims of the project."
-primaryLanguage: "en"
-license: "https://creativecommons.org/licenses/by/4.0/"
-versionDate: "2024-02-22"
-urlToResource: "to be completed"
-resourceURLType: "URL"
-targetGroup: "Data stewards, Data professionals"
-learningResourceType: "Learning Path, Project Milestone"
-learningOutcome: 
-    - Data professionals who have completed the learning path will be able to engage in and motivate the research process to accommodate more available and licensed data
-    - Data professionals who have completed the learning path can demonstrate how licenses can restrict or open up access to research output
-    - Data professionals who have completed this learning path can problematise the application of licenses and thus consider with the relevant stakeholder ethical and legal concerns as well as hesitations regarding licensing research output
-accessCost: "N"
-expertiseLevel: "Intermediate"
+title: Open Licenses for data, code and software
+author: Diane Antoine, Mathilde Bernier , Mareike Buus, Benjamin Derksen, Christine Hadrossek, Karsten Kryger Hansen, Joanna Janik, Nida van Leersum, Carolin Leister, Fabian Schubö, Saba Sharma, Lorna Wildgaard
+tags:
+  - Learning
+  - materials
+  - Training
+  - Data
+  - stewardship
+  - Licensing
+  - research
+  - output
+  - FAIR
+  - data
+  - Requirements
+  - Facilitated
+  - webinar
+abstract: This 2-hour long unit provides trainers with the core skills and knowledge to teach the nuances of licensing research outputs. After completing the unit, the trainer will be able to reflect on how to tailor the content to their local environment, and have more knowledge about when to apply licenses throughout a project, while complying with funders, institutional requirements and the research discipline/aims of the project.
+primaryLanguage: en
+license: https://creativecommons.org/licenses/by/4.0/
+versionDate: 2024-02-22
+urlToResource: to be completed
+resourceURLType: URL
+targetGroup: Data stewards, Data professionals
+learningResourceType: Learning Path, Project Milestone
+learningOutcome:
+  - Data professionals who have completed the learning path will be able to engage in and motivate the research process to accommodate more available and licensed data
+  - Data professionals who have completed the learning path can demonstrate how licenses can restrict or open up access to research output
+  - Data professionals who have completed this learning path can problematise the application of licenses and thus consider with the relevant stakeholder ethical and legal concerns as well as hesitations regarding licensing research output
+accessCost: N
+expertiseLevel: Intermediate
 ---
 
 ![Header with Skills4EOSC funding information](./attachments/header.png)
@@ -126,7 +130,7 @@ Learning materials, training, data stewardship, licensing research output, FAIRd
 
 ## Author(s)
 
-- Diane Antoine, Mathilde Bernier , Mareike Buus, Benjamin Derksen, Christine Hadrossek, Karsten Kryger Hansen, Joanna Janik, Nida van Leersum, Carolin Leister, Fabian Schuboe, Saba Sharma, Lorna Wildgaard
+- Diane Antoine, Mathilde Bernier , Mareike Buus, Benjamin Derksen, Christine Hadrossek, Karsten Kryger Hansen, Joanna Janik, Nida van Leersum, Carolin Leister, Fabian Schubö, Saba Sharma, Lorna Wildgaard
 
 
 # Trainer(s)
