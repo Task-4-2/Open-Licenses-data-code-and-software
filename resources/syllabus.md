@@ -39,13 +39,10 @@ expertiseLevel: Intermediate
 
 ## Date/Time: 19th of June 2024
 
-- put available from date if it is self-paced
-
 ## URL to Skills4EOSC platform to be added
 
-- where it will be available
-- physical location
-- URL link to resources (and virtual room if online) should lead to the learning Skills4EOSC platform
+- The training materials will be available on Zenodo and on the Skills4EOSC learning platform
+- URL link to resources and virtual room: TO BE UPDATED
 
 ## Training Description
 
