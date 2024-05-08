@@ -37,7 +37,7 @@ expertiseLevel: Intermediate
 
 # Learning Path, Project Milestone
 
-## Date/Time: 19th of June 2024
+## Date/Time: 19th of June 2024, 10am - 12pm CEST, 09am-11am BST
 
 ## URL to Skills4EOSC platform to be added
 
