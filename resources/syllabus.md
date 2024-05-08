@@ -37,7 +37,7 @@ expertiseLevel: Intermediate
 
 # Learning Path, Project Milestone
 
-## Date/Time: to be completed
+## Date/Time: 19th of June 2024
 
 - put available from date if it is self-paced
 
@@ -135,12 +135,11 @@ Learning materials, training, data stewardship, licensing research output, FAIRd
 
 # Trainer(s)
 
-- To be up-dated
-- format: Name Surname [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0123-4561-8999-9999), Name Surname [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0123-4561-8999-9999), ...
+-  Agnes Jasinska[![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0009-0000-7934-3679)
 
 ## Contact information
 
-- how to reach out to training organizers To be updated
+- Training organisers: Lorna Wildgaard (lowi@kb.dk) and Benjamin Derksen (bder@kb.dk). 
 
 ## License
 
