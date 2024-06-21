@@ -44,6 +44,7 @@ It is expected that the learner has taken an introduction to research data manag
 ## Slides
 
 The slides can be downloaded [here](./Licensing%20Data%20(Software%20and%20Code).pptx){:download}.
+The slides adapted for the Train-the-trainer event held on the 19th of June 2024 can be downloaded [here](./Licensing%20Data%20(Software%20and%20Code).pptx){:download}.
 
 ## Instructor notes for the three topics taught in the learning unit
 
