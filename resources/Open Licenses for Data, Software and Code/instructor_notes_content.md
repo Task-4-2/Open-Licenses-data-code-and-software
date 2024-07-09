@@ -48,7 +48,6 @@ The entire library of slides we recommend you pick and choose from can be downlo
 The slides adapted for the Train-the-trainer event held on the 19th of June 2024 can be downloaded [here]Open_Licenses_for_Data_Software_Code_Pilot.pptx{:download}.
 
 
-
 ## Instructor notes for the three topics taught in the learning unit
 
 ### Unit 1: Why you shouldn’t license your research output
