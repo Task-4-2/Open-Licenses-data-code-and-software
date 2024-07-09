@@ -43,7 +43,7 @@ It is expected that the learner has taken an introduction to research data manag
 
 ## Slides
 
-The entire library of slides we recommend you pick and choose from can be downloaded [here](./Licensing%20Data%20(Software%20and%20Code).pptx){:download}.
+The entire library of slides we recommend you pick and choose from can be downloaded [here](https://github.com/Task-4-2/Open-Licenses-data-code-and-software/raw/main/resources/Open%20Licenses%20for%20Data%2C%20Software%20and%20Code/Licensing%20Data%20(Software%20and%20Code).pptx){:download}.
 
 The slides adapted for the Train-the-trainer event held on the 19th of June 2024 can be downloaded [here](resources/Open Licenses for Data, Software and Code/Assessment/ Open_Licenses_for_Data_Software_Code_Pilot.pptx){:download}.
 
