@@ -39,10 +39,10 @@ expertiseLevel: Intermediate
 
 ## Date/Time: 19th of June 2024, 10am - 12pm CEST, 09am-11am BST
 
-## URL to Skills4EOSC platform to be added
+## URL to Skills4EOSC platform 
 
 - The training materials will be available on Zenodo and on the Skills4EOSC learning platform
-- URL link to resources and virtual room: TO BE UPDATED
+- URL link to resources and virtual room:https://learning.skills4eosc.eu/course/view.php?id=29
 
 ## Training Description
 
