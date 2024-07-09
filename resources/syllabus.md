@@ -42,7 +42,7 @@ expertiseLevel: Intermediate
 ## URL to Skills4EOSC platform 
 
 - The training materials will be available on Zenodo and on the Skills4EOSC learning platform
-- URL link to resources and virtual room:https://learning.skills4eosc.eu/course/view.php?id=29
+- URL link to resources and virtual room: https://learning.skills4eosc.eu/course/view.php?id=29
 
 ## Training Description
 
