@@ -39,12 +39,12 @@ authors:
     affiliation: TU-DELFT
 title: 'Open Licenses for Data, Software and Code'
 abstract: "This 2-hour long unit provides trainers with the core skills and knowledge to teach the nuances of licensing research outputs. After completing the unit, the trainer will be able to reflect on how to tailor the content to their local environment, and have more knowledge about when to apply licenses throughout a project, while complying with funders, institutional requirements and the research discipline/aims of the project."
-version: 1.0.0
+version: Skills4EOSC
 doi: 10.5070/zenodo.123
-date-released: '2023-01-18'
+date-released: '2024-07-10'
 license: CC-BY-4.0
 license-url: https://creativecommons.org/licenses/by/4.0/legalcode.txt
 keywords:
- - licenses
- - research output
+  - licenses
+  - research output
 repository: https://github.com/Task-4-2/Open-Licenses-data-code-and-software
